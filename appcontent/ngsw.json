@@ -1,0 +1,172 @@
+{
+  "configVersion": 1,
+  "timestamp": 1663938215873,
+  "appData": "PoetryApp ServiceWorker",
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "appRoot",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.png",
+        "/fonts.css",
+        "/index.html",
+        "/runtime.f4395b11e23c07ce.js",
+        "/styles.c30ac1c53f69ad14.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "scripts",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/254.abbe1b106fc59bbf.js",
+        "/682.c6f3351f8e4782e9.js",
+        "/894.28b292a310f195f1.js",
+        "/main.0139797aede4aa30.js",
+        "/polyfills.9ce3defc1e550c5c.js",
+        "/scripts.102b5a76a75bb13c.js"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
+        "/assets/icons/clipboard-copy.svg",
+        "/assets/icons/fan.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-32x32.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/jian.svg",
+        "/assets/icons/material-icons/400.css",
+        "/assets/icons/material-icons/CHANGELOG.md",
+        "/assets/icons/material-icons/README.md",
+        "/assets/icons/material-icons/base-400.css",
+        "/assets/icons/material-icons/base.css",
+        "/assets/icons/material-icons/files/material-icons-base-400-normal.woff",
+        "/assets/icons/material-icons/files/material-icons-base-400-normal.woff2",
+        "/assets/icons/material-icons/index.css",
+        "/assets/icons/material-icons/metadata.json",
+        "/assets/icons/material-icons/package.json",
+        "/assets/icons/material-icons/scss/mixins.scss",
+        "/assets/icons/material-icons/unicode.json",
+        "/assets/readme.MD"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api",
+      "patterns": [
+        "\\/api\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 1000,
+      "maxAge": 86400000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "staticReadonly",
+      "patterns": [
+        "\\/data\\/[^/]*\\.json"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 2592000000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/254.abbe1b106fc59bbf.js": "72a18315145088fd017945493ba45a91b9022c31",
+    "/682.c6f3351f8e4782e9.js": "b90cf4f28517891ec3fa0bfd50b5956c0cf20dae",
+    "/894.28b292a310f195f1.js": "5b7dbe0c8c9ff6a66dbb6ad5a661002580306f91",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff": "d9cfe6b477b49d47b6241b4281f4858d98eaca65",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
+    "/assets/icons/clipboard-copy.svg": "aa8fb040b192da486f6047d73cb2d38aa938705e",
+    "/assets/icons/fan.svg": "1ef14acb5de776f1e70002faac50747fc1dc9bff",
+    "/assets/icons/icon-128x128.png": "3338795aeb34dd2f667de6cfb4b8039f9506bb1f",
+    "/assets/icons/icon-144x144.png": "99b602be05a8a2584a027b5a2af26e03d2d2fb53",
+    "/assets/icons/icon-152x152.png": "6b344c0c2220a871f1b832dd8db59c6d7572b866",
+    "/assets/icons/icon-192x192.png": "efcbb1c4da58a414736dcefaff3233d381fc72c4",
+    "/assets/icons/icon-32x32.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
+    "/assets/icons/icon-384x384.png": "38de9b50b24001c4871431105b93604c86ecaeba",
+    "/assets/icons/icon-512x512.png": "1d0002ec3f9445e04cb19164550e5f3d1f29fe24",
+    "/assets/icons/icon-72x72.png": "8a8796e27874b989472e151cede0626c2368b305",
+    "/assets/icons/icon-96x96.png": "005d363a7c6bcaf5befe7bc1413f0a39e0c07bd2",
+    "/assets/icons/jian.svg": "8ca0e48a1b281a14b63b0fe91f73a05e2026d917",
+    "/assets/icons/material-icons/400.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/CHANGELOG.md": "388da46d18957ff5863c8a654b8f9707e6c50e14",
+    "/assets/icons/material-icons/README.md": "c7fd35d140a634f00c07f2b2ed77830645e2be70",
+    "/assets/icons/material-icons/base-400.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/base.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/files/material-icons-base-400-normal.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
+    "/assets/icons/material-icons/files/material-icons-base-400-normal.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
+    "/assets/icons/material-icons/index.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/metadata.json": "ea4cb5f87d9b5cc36a758ce1aefefe8fe38e9493",
+    "/assets/icons/material-icons/package.json": "5ae8ca1016d55b94f02f8fb383d1e0f0fd979947",
+    "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
+    "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "/assets/readme.MD": "d07f33087c4dc7f86f9db273ad807df2410851f6",
+    "/favicon.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
+    "/fonts.css": "b3fe258a1b8804775a6de16f4dd982fca461b543",
+    "/index.html": "5b1fc8b2d81eb4d2c363e11f7d81498a5e241929",
+    "/main.0139797aede4aa30.js": "e4632ce5682a1d567ebd4d81bad9afc3db7ddf23",
+    "/polyfills.9ce3defc1e550c5c.js": "517129b51a4d958c63aa25c33455a15a4efb252e",
+    "/runtime.f4395b11e23c07ce.js": "2d6b472f2ac94ed5726735fbbcaaa597320d8716",
+    "/scripts.102b5a76a75bb13c.js": "93751c2fda7e989764a63226df6f9e15eac22753",
+    "/styles.c30ac1c53f69ad14.css": "14b593e4efbbe4b70800cd818ecc8ff11f38f6bb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
