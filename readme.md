@@ -4,5 +4,7 @@ published content in branch gh-pages with [poems by the following poets](https:/
 * Edgar Allan Poe
 * 李白
 
+Branch azure-pages is for publishing at Azure StaticApp.
+
 
 
