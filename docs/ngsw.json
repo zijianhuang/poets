@@ -1,36 +1,80 @@
 {
   "configVersion": 1,
-  "timestamp": 1662934894134,
-  "index": "/../index.html",
+  "timestamp": 1665395310103,
+  "appData": "PoetryApp ServiceWorker",
+  "index": "/index.html",
   "assetGroups": [
     {
-      "name": "app",
+      "name": "appRoot",
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
       "urls": [
-        "/scripts/254.c8441bb3b3303603.js",
-        "/scripts/682.c6f3351f8e4782e9.js",
-        "/scripts/894.2b8982daeda5f0b9.js",
-        "/scripts/main.6d05ada9ed772c2b.js",
-        "/scripts/polyfills.9ce3defc1e550c5c.js",
-        "/scripts/runtime.7a2d5a580fec7cdd.js",
-        "/scripts/scripts.f88369216b534d07.js",
-        "/scripts/styles.65d39e15719e29b3.css"
+        "/favicon.png",
+        "/fonts.css",
+        "/index.html",
+        "/runtime.02a9805fd1d1326c.js",
+        "/styles.70eb0882dcc4e445.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "scripts",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/254.ce863b9a71dfc8ee.js",
+        "/682.6dd6057e71aa32cf.js",
+        "/894.53587f13d9d83d3f.js",
+        "/main.63166ae611905272.js",
+        "/polyfills.9ce3defc1e550c5c.js",
+        "/scripts.569c6872731a2a98.js"
       ],
       "patterns": []
     },
     {
       "name": "assets",
       "installMode": "lazy",
-      "updateMode": "prefetch",
+      "updateMode": "lazy",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
       "urls": [
-        "/scripts/favicon.png"
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff",
+        "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
+        "/assets/icons/clipboard-copy.svg",
+        "/assets/icons/fan.svg",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-32x32.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/icons/jian.svg",
+        "/assets/icons/material-icons/400.css",
+        "/assets/icons/material-icons/CHANGELOG.md",
+        "/assets/icons/material-icons/README.md",
+        "/assets/icons/material-icons/base-400.css",
+        "/assets/icons/material-icons/base.css",
+        "/assets/icons/material-icons/files/material-icons-base-400-normal.woff",
+        "/assets/icons/material-icons/files/material-icons-base-400-normal.woff2",
+        "/assets/icons/material-icons/index.css",
+        "/assets/icons/material-icons/metadata.json",
+        "/assets/icons/material-icons/package.json",
+        "/assets/icons/material-icons/scss/mixins.scss",
+        "/assets/icons/material-icons/unicode.json",
+        "/assets/readme.MD"
       ],
       "patterns": []
     }
@@ -39,11 +83,24 @@
     {
       "name": "api",
       "patterns": [
-        "\\/api"
+        "\\/api\\/.*"
       ],
       "strategy": "freshness",
-      "maxSize": 0,
-      "maxAge": 0,
+      "maxSize": 1000,
+      "maxAge": 86400000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
+      "name": "staticReadonly",
+      "patterns": [
+        "\\/data\\/[^/]*\\.json"
+      ],
+      "strategy": "performance",
+      "maxSize": 100,
+      "maxAge": 2592000000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -51,15 +108,47 @@
     }
   ],
   "hashTable": {
-    "/scripts/254.c8441bb3b3303603.js": "55358d447597c5927db616c1346a0f34776acfbc",
-    "/scripts/682.c6f3351f8e4782e9.js": "b90cf4f28517891ec3fa0bfd50b5956c0cf20dae",
-    "/scripts/894.2b8982daeda5f0b9.js": "70188481a6ed0f56353eaccb4d36994a792ab6e7",
-    "/scripts/favicon.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
-    "/scripts/main.6d05ada9ed772c2b.js": "84c1c0b3cde3f4ea082636106f0b3a38d9857d49",
-    "/scripts/polyfills.9ce3defc1e550c5c.js": "517129b51a4d958c63aa25c33455a15a4efb252e",
-    "/scripts/runtime.7a2d5a580fec7cdd.js": "c0d0e915e57c0681464283abfb2d75262d59e6a9",
-    "/scripts/scripts.f88369216b534d07.js": "7415d4c7d0cac265453012873c7e2eea55ed50a5",
-    "/scripts/styles.65d39e15719e29b3.css": "5c639e0acea0295af2dad47050e40246f536aa2b"
+    "/254.ce863b9a71dfc8ee.js": "e93187b944b4b88fdaa61c075151f6f7e3463af2",
+    "/682.6dd6057e71aa32cf.js": "756d2a36d0410c7e83958883584b57e6bb54d037",
+    "/894.53587f13d9d83d3f.js": "0143898501a5ba9b9cec789b3cd90de09fa64e98",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff": "d9cfe6b477b49d47b6241b4281f4858d98eaca65",
+    "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
+    "/assets/icons/clipboard-copy.svg": "aa8fb040b192da486f6047d73cb2d38aa938705e",
+    "/assets/icons/fan.svg": "1ef14acb5de776f1e70002faac50747fc1dc9bff",
+    "/assets/icons/icon-128x128.png": "3338795aeb34dd2f667de6cfb4b8039f9506bb1f",
+    "/assets/icons/icon-144x144.png": "99b602be05a8a2584a027b5a2af26e03d2d2fb53",
+    "/assets/icons/icon-152x152.png": "6b344c0c2220a871f1b832dd8db59c6d7572b866",
+    "/assets/icons/icon-192x192.png": "efcbb1c4da58a414736dcefaff3233d381fc72c4",
+    "/assets/icons/icon-32x32.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
+    "/assets/icons/icon-384x384.png": "38de9b50b24001c4871431105b93604c86ecaeba",
+    "/assets/icons/icon-512x512.png": "1d0002ec3f9445e04cb19164550e5f3d1f29fe24",
+    "/assets/icons/icon-72x72.png": "8a8796e27874b989472e151cede0626c2368b305",
+    "/assets/icons/icon-96x96.png": "005d363a7c6bcaf5befe7bc1413f0a39e0c07bd2",
+    "/assets/icons/jian.svg": "8ca0e48a1b281a14b63b0fe91f73a05e2026d917",
+    "/assets/icons/material-icons/400.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/CHANGELOG.md": "388da46d18957ff5863c8a654b8f9707e6c50e14",
+    "/assets/icons/material-icons/README.md": "c7fd35d140a634f00c07f2b2ed77830645e2be70",
+    "/assets/icons/material-icons/base-400.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/base.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/files/material-icons-base-400-normal.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
+    "/assets/icons/material-icons/files/material-icons-base-400-normal.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
+    "/assets/icons/material-icons/index.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
+    "/assets/icons/material-icons/metadata.json": "ea4cb5f87d9b5cc36a758ce1aefefe8fe38e9493",
+    "/assets/icons/material-icons/package.json": "5ae8ca1016d55b94f02f8fb383d1e0f0fd979947",
+    "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
+    "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+    "/assets/readme.MD": "d07f33087c4dc7f86f9db273ad807df2410851f6",
+    "/favicon.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
+    "/fonts.css": "b3fe258a1b8804775a6de16f4dd982fca461b543",
+    "/index.html": "0c33fe4547a0682c08a7bcde17b2b54bfe8a8d48",
+    "/main.63166ae611905272.js": "138083c783f8b759da39aa9e38aa4db1cf9c5949",
+    "/polyfills.9ce3defc1e550c5c.js": "517129b51a4d958c63aa25c33455a15a4efb252e",
+    "/runtime.02a9805fd1d1326c.js": "9c7bf6b9c4e77882c7be029f676ae7a7f71c0031",
+    "/scripts.569c6872731a2a98.js": "6c30f9acb591d2d51ace254b8e5d37c2f375791b",
+    "/styles.70eb0882dcc4e445.css": "6ed2af30472553bc75b50b91dcfa804a222f7ac6"
   },
   "navigationUrls": [
     {
