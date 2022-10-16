@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1665899677884,
+  "timestamp": 1665959986815,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -15,7 +15,7 @@
         "/favicon.png",
         "/fonts.css",
         "/index.html",
-        "/runtime.9b50820c109fb634.js",
+        "/runtime.4ae83e2b1890e35c.js",
         "/styles.70eb0882dcc4e445.css"
       ],
       "patterns": []
@@ -28,12 +28,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/254.71bcca3ead181f4e.js",
+        "/254.2a6e3f7376b8d794.js",
         "/682.82c1f8c986854750.js",
         "/894.4386289ae9453b58.js",
-        "/main.becd577f95bd8530.js",
+        "/main.fcccdab160306f7c.js",
         "/polyfills.9ce3defc1e550c5c.js",
-        "/scripts.cd7631aef148541c.js"
+        "/scripts.506ccafd8d14b542.js"
       ],
       "patterns": []
     },
@@ -108,7 +108,7 @@
     }
   ],
   "hashTable": {
-    "/254.71bcca3ead181f4e.js": "4b4bc19c8019166b12488da0f01f54fa5446b3b9",
+    "/254.2a6e3f7376b8d794.js": "49e0c8375e8a87831b7d9961a713d1e870ae8d6f",
     "/682.82c1f8c986854750.js": "bcefa8c9ea8eb06c5d1885559669712fc0923024",
     "/894.4386289ae9453b58.js": "ca1788c6153e90de09750c5224c86031ac669970",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
@@ -143,11 +143,11 @@
     "/assets/readme.MD": "d07f33087c4dc7f86f9db273ad807df2410851f6",
     "/favicon.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
     "/fonts.css": "b3fe258a1b8804775a6de16f4dd982fca461b543",
-    "/index.html": "312428087e1500682cbef0bf5154ab61c09290ee",
-    "/main.becd577f95bd8530.js": "ad505978620292165a9866cd31d00980e1aa3120",
+    "/index.html": "574e803397deba3a65c738f90f9abdf159cda92d",
+    "/main.fcccdab160306f7c.js": "9756cf23eeb0066e85838e12b5d8c14d04f47f88",
     "/polyfills.9ce3defc1e550c5c.js": "517129b51a4d958c63aa25c33455a15a4efb252e",
-    "/runtime.9b50820c109fb634.js": "9ad6c0644748ea94c802b2720d80e6957ed53c31",
-    "/scripts.cd7631aef148541c.js": "f88cd64fa9861ffdce5181dfaf7759809f2766e1",
+    "/runtime.4ae83e2b1890e35c.js": "6c70900eb804293238e6deb56a8b520d1825b7f9",
+    "/scripts.506ccafd8d14b542.js": "8e97d8a6124635f74bd8fcc1af570972d744088a",
     "/styles.70eb0882dcc4e445.css": "6ed2af30472553bc75b50b91dcfa804a222f7ac6"
   },
   "navigationUrls": [
