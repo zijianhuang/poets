@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1666776395106,
+  "timestamp": 1666911290257,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -12,10 +12,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.png",
-        "/fonts.css",
         "/index.html",
-        "/runtime.8cf97c20309332cf.js",
+        "/runtime.a2d0748990605d15.js",
         "/styles.70eb0882dcc4e445.css"
       ],
       "patterns": []
@@ -28,12 +26,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/254.36bc35c6f9e36f3a.js",
-        "/682.82c1f8c986854750.js",
-        "/894.5e3edf65e85d8a93.js",
-        "/main.46f149e8ed2d266d.js",
+        "/254.42625b07b8b309bf.js",
+        "/682.ba99b9a2200e1de7.js",
+        "/894.7fd931bcf54a52f8.js",
+        "/main.9e69fc19028dfec3.js",
         "/polyfills.9ce3defc1e550c5c.js",
-        "/scripts.872fec48de54402c.js"
+        "/scripts.d406a6e2bb847272.js"
       ],
       "patterns": []
     },
@@ -108,9 +106,9 @@
     }
   ],
   "hashTable": {
-    "/254.36bc35c6f9e36f3a.js": "e506b5bb8fda419ae027baa0ae366af56718db9c",
-    "/682.82c1f8c986854750.js": "bcefa8c9ea8eb06c5d1885559669712fc0923024",
-    "/894.5e3edf65e85d8a93.js": "2e54e1ea938d82d1780dc90f5397861b26747a08",
+    "/254.42625b07b8b309bf.js": "f1b681964b19d714c80d9c689bf4ca2edd60c37e",
+    "/682.ba99b9a2200e1de7.js": "2954aafdb7d5caee092f599c83de8b2ede2baa50",
+    "/894.7fd931bcf54a52f8.js": "19efe89ff575327d4046ea0f102db83cecdb8d9b",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -141,13 +139,11 @@
     "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
     "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
     "/assets/readme.MD": "d07f33087c4dc7f86f9db273ad807df2410851f6",
-    "/favicon.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
-    "/fonts.css": "b3fe258a1b8804775a6de16f4dd982fca461b543",
-    "/index.html": "c7cb5cb6582e2411fbfa384088a2c5fe25087c5e",
-    "/main.46f149e8ed2d266d.js": "a071f275f5710a6f6531b1202297d55d2e934a8d",
+    "/index.html": "9272104fb57d973ce8f3f709a7b207efbfd5fe77",
+    "/main.9e69fc19028dfec3.js": "dc79588ca52ae429b85c9dc9d69cd94ac99e81f4",
     "/polyfills.9ce3defc1e550c5c.js": "517129b51a4d958c63aa25c33455a15a4efb252e",
-    "/runtime.8cf97c20309332cf.js": "7f4c549c5b3890a30f64a463dedb495498ee8164",
-    "/scripts.872fec48de54402c.js": "542a44c5f9d196750cb3d99908207cc200a13bbc",
+    "/runtime.a2d0748990605d15.js": "3c1f8647a9cdbce7a9910b18ec6244cbeebefbe4",
+    "/scripts.d406a6e2bb847272.js": "4ad75e896e0be8aff5f448e9e0f628c17cf3bd3e",
     "/styles.70eb0882dcc4e445.css": "6ed2af30472553bc75b50b91dcfa804a222f7ac6"
   },
   "navigationUrls": [
