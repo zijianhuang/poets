@@ -1,6 +1,8 @@
 const SITE_CONFIG = {
-	siteName: 'Poetry Collection',
+	siteName: 'Poetry Collection of Poets',
 	staticReadonly: true,
+	copyPoemEnabled: true,
+	copyAlbumEnabled: false,
 	staticDatas: [
 		{filename: 'Shelley', poetName: 'Percy Bysshe Shelley'},
 		{filename: 'Byron', poetName: 'George Gordon Byron'},
