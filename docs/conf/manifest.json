@@ -1,8 +1,8 @@
 {
 	"name": "Collections of Poets",
-	"short_name": "Poetry",
+	"short_name": "Poets",
 	"description": "Manage poems of a poet and publishing",
-	"id": "Fonlow.PoetsCollections",
+	"id": "Fonlow.PoetsCollectionsViewer",
 	"theme_color": "#1976d2",
 	"background_color": "#fafafa",
 	"display": "standalone",
