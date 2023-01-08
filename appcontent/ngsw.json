@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1672950977100,
+  "timestamp": 1673156072420,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -13,7 +13,7 @@
       },
       "urls": [
         "/index.html",
-        "/runtime.8986bd0db8f75f94.js",
+        "/runtime.f2bb1c3bdcfeb5bb.js",
         "/styles.9b2ee2e6619be494.css"
       ],
       "patterns": []
@@ -26,12 +26,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/254.058e67a0a9d270d1.js",
-        "/682.f3455dbf64eb7a9d.js",
-        "/894.4df70811a67026fb.js",
-        "/main.935e7e998a255e09.js",
+        "/254.e0b06434ff11c271.js",
+        "/682.604f38242860d241.js",
+        "/894.07619596eac1fa1d.js",
+        "/main.7c484502ad680b3c.js",
         "/polyfills.9825d27c06e87ba3.js",
-        "/scripts.5017eb6c95e5c13c.js"
+        "/scripts.c8efc56d17e2d903.js"
       ],
       "patterns": []
     },
@@ -106,9 +106,9 @@
     }
   ],
   "hashTable": {
-    "/254.058e67a0a9d270d1.js": "a765ad361edcb14042c695504c63ee3fa7e387e2",
-    "/682.f3455dbf64eb7a9d.js": "bba9e5ad380090a8ca865abd5237546640802a70",
-    "/894.4df70811a67026fb.js": "acca49b2dbf962bb016fba31c79b03d661a90aee",
+    "/254.e0b06434ff11c271.js": "48ab24749471c59973d11fd111af8ef4be6baaf6",
+    "/682.604f38242860d241.js": "d8f92fc1e8616cb2e13154377ef8a7cc8c2b8b83",
+    "/894.07619596eac1fa1d.js": "9c68deca3b1a07405719854d959e58a6ab18d5cf",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -139,11 +139,11 @@
     "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
     "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
     "/assets/readme.MD": "d07f33087c4dc7f86f9db273ad807df2410851f6",
-    "/index.html": "a98d072e45f73693180d8c9dce48fd3db0f02d9b",
-    "/main.935e7e998a255e09.js": "e00ec570eaff0935ffcef9d84258f94845ad657e",
+    "/index.html": "0c3472907abb45e15d27f773cd7eb5819935926f",
+    "/main.7c484502ad680b3c.js": "9b2fb063f246a45065406b0e9b8e1e7a3139a216",
     "/polyfills.9825d27c06e87ba3.js": "81b58d0624250097e25df0e014d6b16431d55e74",
-    "/runtime.8986bd0db8f75f94.js": "999dcb3fe11f8a240f004381e2f7a83b90a84055",
-    "/scripts.5017eb6c95e5c13c.js": "6ec2fe3a7eb9d3d390ba1f00aca98572099b5511",
+    "/runtime.f2bb1c3bdcfeb5bb.js": "49621d1052cc4649feff1a56724fd6039c31cc92",
+    "/scripts.c8efc56d17e2d903.js": "1d4668626e24d4368f304dc16e584abd77ac2f24",
     "/styles.9b2ee2e6619be494.css": "014b5052d69ccc04c83149108f9580b449c6bc04"
   },
   "navigationUrls": [
