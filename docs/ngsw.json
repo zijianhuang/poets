@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677314791333,
+  "timestamp": 1683347673959,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -13,8 +13,8 @@
       },
       "urls": [
         "/index.html",
-        "/runtime.669d739b6a4d64d6.js",
-        "/styles.c6137ce7986e517a.css"
+        "/runtime.b1e37539ca35296a.js",
+        "/styles.e9e431c5c7854893.css"
       ],
       "patterns": []
     },
@@ -26,12 +26,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/254.8b2acea69ac540df.js",
-        "/682.6702079189b243f3.js",
-        "/894.4aba853ae61d28fa.js",
-        "/main.642136331705daa0.js",
-        "/polyfills.052931a774a7089b.js",
-        "/scripts.60f640a6b6afa36e.js"
+        "/254.ba220d7c546bf8b2.js",
+        "/682.62554c15dd0473e3.js",
+        "/894.d840788472c974aa.js",
+        "/main.03faa3724cd38063.js",
+        "/polyfills.e914598facc0db28.js",
+        "/scripts.d363820544d9b638.js"
       ],
       "patterns": []
     },
@@ -73,7 +73,7 @@
         "/assets/icons/material-icons/scss/mixins.scss",
         "/assets/icons/material-icons/unicode.json",
         "/assets/readme.MD",
-        "/assets/themes/deeppurple-amber.css"
+        "/assets/themes/theme.css"
       ],
       "patterns": []
     }
@@ -108,9 +108,9 @@
     }
   ],
   "hashTable": {
-    "/254.8b2acea69ac540df.js": "ffc0e2a20abe78c05df7977be768b780795d4cbf",
-    "/682.6702079189b243f3.js": "3d3c8ddffa4e1306da5cc8b14168c2149c4ff561",
-    "/894.4aba853ae61d28fa.js": "d1d81019c20567ca8ffcf1c32312b4fa68306c44",
+    "/254.ba220d7c546bf8b2.js": "d87c8fe5001f953b2c130bf5c091d9884556f9bb",
+    "/682.62554c15dd0473e3.js": "b2bce3b8e04dcff2fd317e7cbe350c6cb31fc104",
+    "/894.d840788472c974aa.js": "12ad5efb98e4dc15fefe1f434717565aef649886",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -141,13 +141,13 @@
     "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
     "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
     "/assets/readme.MD": "06c5913f3d02b53d8d11834ac0689217b27a7640",
-    "/assets/themes/deeppurple-amber.css": "bf377d9449d4df8cf93c5b68fbebd01cc33033d4",
-    "/index.html": "1b1ff1e3d449502727ba4b87faa1911f6ffed0ef",
-    "/main.642136331705daa0.js": "6b3fa7361b36fb9faea4fbac204fe06e7179f6be",
-    "/polyfills.052931a774a7089b.js": "371c99b5f8f9d8461df017663d0c2acf1d6ca95e",
-    "/runtime.669d739b6a4d64d6.js": "bc982254b22a0f9345d39493d755b82294948072",
-    "/scripts.60f640a6b6afa36e.js": "cb727febf159b0b08f717cca0e189ad5a727ae01",
-    "/styles.c6137ce7986e517a.css": "52f28f2498ca90c181a67d523ba78dd6a2d73ec2"
+    "/assets/themes/theme.css": "bf377d9449d4df8cf93c5b68fbebd01cc33033d4",
+    "/index.html": "6496ba2518e2bd740d76d2b92f7b39ce1bc0e83c",
+    "/main.03faa3724cd38063.js": "3a0a0e0d40be89432ec65b6f8999ee4cf7762833",
+    "/polyfills.e914598facc0db28.js": "bf46a5261a788a7ca4b1a6a1ff1589cfba0f7682",
+    "/runtime.b1e37539ca35296a.js": "efa42a9a5ae2e31a3616195fecfe689a278b27e4",
+    "/scripts.d363820544d9b638.js": "311d0795c03de794b39218b00df0742cc3763f29",
+    "/styles.e9e431c5c7854893.css": "062d4da1e1d674801e70993a2d17013e50350e06"
   },
   "navigationUrls": [
     {
