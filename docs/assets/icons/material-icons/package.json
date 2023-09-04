@@ -1,1 +1,30 @@
-{"name":"@fontsource/material-icons","version":"4.5.4","description":"Self-host the Material Icons font in a neatly bundled NPM package.","main":"index.css","publishConfig":{"access":"public"},"keywords":["fontsource","font","font family","google fonts","Material Icons","material-icons","css","sass","front-end","web","typeface"],"author":"Lotus <declininglotus@gmail.com>","license":"MIT","homepage":"https://github.com/fontsource/fontsource/tree/main/fonts/icons/material-icons#readme","repository":{"type":"git","url":"https://github.com/fontsource/fontsource.git","directory":"fonts/icons/material-icons"}}
+{
+  "name": "@fontsource/material-icons",
+  "version": "5.0.7",
+  "description": "Self-host the Material Icons font in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "fontsource",
+    "font",
+    "font family",
+    "google fonts",
+    "material-icons",
+    "Material Icons",
+    "css",
+    "sass",
+    "front-end",
+    "web",
+    "typeface",
+    "variable"
+  ],
+  "author": "Google Inc.",
+  "license": "Apache-2.0",
+  "homepage": "https://fontsource.org/fonts/material-icons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fontsource/font-files.git",
+    "directory": "fonts/google/material-icons"
+  },
+  "publishHash": "106a578e87084a59"
+}
