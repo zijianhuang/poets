@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693868729165,
+  "timestamp": 1693869702719,
   "appData": "PoetryApp ServiceWorker",
   "index": "/poets/index.html",
   "assetGroups": [
@@ -13,7 +13,7 @@
       },
       "urls": [
         "/poets/index.html",
-        "/poets/runtime.3d32c5192d1f2c21.js",
+        "/poets/runtime.1c5ade0be023b055.js",
         "/poets/styles.eb719866b16087a9.css"
       ],
       "patterns": []
@@ -27,11 +27,11 @@
       },
       "urls": [
         "/poets/466.00062457a81135cf.js",
-        "/poets/569.69cdd3b43ddb7171.js",
+        "/poets/569.105bad2bb7f8e426.js",
         "/poets/875.cd3de5fe16bc5cb3.js",
         "/poets/main.1c15fa0e60f1f5ea.js",
         "/poets/polyfills.29c54a0ed9c369d3.js",
-        "/poets/scripts.e12263dff7dabcb7.js"
+        "/poets/scripts.1c6f616f2638f0da.js"
       ],
       "patterns": []
     },
@@ -113,7 +113,7 @@
   ],
   "hashTable": {
     "/poets/466.00062457a81135cf.js": "8e9cbd5d7dbc346dab17f8cc48cea50a24e3af43",
-    "/poets/569.69cdd3b43ddb7171.js": "43e43cdc1c6e2a66661f539ae8be5fa825b82020",
+    "/poets/569.105bad2bb7f8e426.js": "e48430a0907ba1ef37a691307114eef94f41cc68",
     "/poets/875.cd3de5fe16bc5cb3.js": "38aa924fcaeade2098bf0386f93e42a2e2be69f9",
     "/poets/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/poets/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
@@ -150,11 +150,11 @@
     "/poets/assets/themes/deeppurple-amber.css": "1bc1338e4e0a0abc3b88d2e86d9f04e05a7dc4ee",
     "/poets/assets/themes/indigo-pink.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
     "/poets/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
-    "/poets/index.html": "2236d1c35252c19321bb669b494fe2858de2325d",
+    "/poets/index.html": "30bc7e956d4a80044a314135f0f9325c9fe3ff8e",
     "/poets/main.1c15fa0e60f1f5ea.js": "3610c1fa97520d2780b8cc66135040885a318c54",
     "/poets/polyfills.29c54a0ed9c369d3.js": "64164cc13e976514680e5ab1cbd157156b415969",
-    "/poets/runtime.3d32c5192d1f2c21.js": "2499610859a5a8c7d87cbef1f3974881617b55b5",
-    "/poets/scripts.e12263dff7dabcb7.js": "f352329bc32bbb02c26ec01307e3da397be976b5",
+    "/poets/runtime.1c5ade0be023b055.js": "c7ce296567e2f4f56b5552e5389e62afd143734c",
+    "/poets/scripts.1c6f616f2638f0da.js": "558490b37d226c34010dcb938e6ee08d75446069",
     "/poets/styles.eb719866b16087a9.css": "d7aad293c73dc7afe1343d32aa9be532902365a1"
   },
   "navigationUrls": [
