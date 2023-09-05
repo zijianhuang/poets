@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673156072420,
+  "timestamp": 1693877493363,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -13,8 +13,8 @@
       },
       "urls": [
         "/index.html",
-        "/runtime.f2bb1c3bdcfeb5bb.js",
-        "/styles.9b2ee2e6619be494.css"
+        "/runtime.d5a40815e673db2d.js",
+        "/styles.eb719866b16087a9.css"
       ],
       "patterns": []
     },
@@ -26,12 +26,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/254.e0b06434ff11c271.js",
-        "/682.604f38242860d241.js",
-        "/894.07619596eac1fa1d.js",
-        "/main.7c484502ad680b3c.js",
-        "/polyfills.9825d27c06e87ba3.js",
-        "/scripts.c8efc56d17e2d903.js"
+        "/466.00062457a81135cf.js",
+        "/569.77532c594064efac.js",
+        "/875.cd3de5fe16bc5cb3.js",
+        "/main.1c15fa0e60f1f5ea.js",
+        "/polyfills.29c54a0ed9c369d3.js",
+        "/scripts.04a8000cd1bb7deb.js"
       ],
       "patterns": []
     },
@@ -62,17 +62,22 @@
         "/assets/icons/jian.svg",
         "/assets/icons/material-icons/400.css",
         "/assets/icons/material-icons/CHANGELOG.md",
+        "/assets/icons/material-icons/LICENSE",
         "/assets/icons/material-icons/README.md",
-        "/assets/icons/material-icons/base-400.css",
-        "/assets/icons/material-icons/base.css",
-        "/assets/icons/material-icons/files/material-icons-base-400-normal.woff",
-        "/assets/icons/material-icons/files/material-icons-base-400-normal.woff2",
+        "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff",
+        "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff2",
         "/assets/icons/material-icons/index.css",
+        "/assets/icons/material-icons/latin-400.css",
+        "/assets/icons/material-icons/latin.css",
         "/assets/icons/material-icons/metadata.json",
         "/assets/icons/material-icons/package.json",
+        "/assets/icons/material-icons/scss/metadata.scss",
         "/assets/icons/material-icons/scss/mixins.scss",
         "/assets/icons/material-icons/unicode.json",
-        "/assets/readme.MD"
+        "/assets/readme.MD",
+        "/assets/themes/deeppurple-amber.css",
+        "/assets/themes/indigo-pink.css",
+        "/assets/themes/theme.css"
       ],
       "patterns": []
     }
@@ -86,6 +91,7 @@
       "strategy": "freshness",
       "maxSize": 1000,
       "maxAge": 86400000,
+      "timeoutMs": 2000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -97,8 +103,8 @@
         "\\/data\\/[^/]*\\.json"
       ],
       "strategy": "performance",
-      "maxSize": 100,
-      "maxAge": 2592000000,
+      "maxSize": 200,
+      "maxAge": 31536000000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -106,15 +112,15 @@
     }
   ],
   "hashTable": {
-    "/254.e0b06434ff11c271.js": "48ab24749471c59973d11fd111af8ef4be6baaf6",
-    "/682.604f38242860d241.js": "d8f92fc1e8616cb2e13154377ef8a7cc8c2b8b83",
-    "/894.07619596eac1fa1d.js": "9c68deca3b1a07405719854d959e58a6ab18d5cf",
+    "/466.00062457a81135cf.js": "8e9cbd5d7dbc346dab17f8cc48cea50a24e3af43",
+    "/569.77532c594064efac.js": "fa2d79df1f8283fa912dff95f270eec8d3c8f2ea",
+    "/875.cd3de5fe16bc5cb3.js": "38aa924fcaeade2098bf0386f93e42a2e2be69f9",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff": "d9cfe6b477b49d47b6241b4281f4858d98eaca65",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
-    "/assets/icons/clipboard-copy.svg": "aa8fb040b192da486f6047d73cb2d38aa938705e",
+    "/assets/icons/clipboard-copy.svg": "bc582183b66dc8e691c68d68528df0dfc6a3b931",
     "/assets/icons/fan.svg": "1ef14acb5de776f1e70002faac50747fc1dc9bff",
     "/assets/icons/icon-128x128.png": "3338795aeb34dd2f667de6cfb4b8039f9506bb1f",
     "/assets/icons/icon-144x144.png": "99b602be05a8a2584a027b5a2af26e03d2d2fb53",
@@ -126,25 +132,30 @@
     "/assets/icons/icon-72x72.png": "8a8796e27874b989472e151cede0626c2368b305",
     "/assets/icons/icon-96x96.png": "005d363a7c6bcaf5befe7bc1413f0a39e0c07bd2",
     "/assets/icons/jian.svg": "8ca0e48a1b281a14b63b0fe91f73a05e2026d917",
-    "/assets/icons/material-icons/400.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
-    "/assets/icons/material-icons/CHANGELOG.md": "388da46d18957ff5863c8a654b8f9707e6c50e14",
-    "/assets/icons/material-icons/README.md": "c7fd35d140a634f00c07f2b2ed77830645e2be70",
-    "/assets/icons/material-icons/base-400.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
-    "/assets/icons/material-icons/base.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
-    "/assets/icons/material-icons/files/material-icons-base-400-normal.woff": "6e4299698a545c9cf5798fdbb3dd2e0350b41ae4",
-    "/assets/icons/material-icons/files/material-icons-base-400-normal.woff2": "c8de67e55036ce9ed7844c9a010a0c4cd5dfc54b",
-    "/assets/icons/material-icons/index.css": "f3c9b44be0dd05c7ba6e54c00fe54cb06b09e1af",
-    "/assets/icons/material-icons/metadata.json": "ea4cb5f87d9b5cc36a758ce1aefefe8fe38e9493",
-    "/assets/icons/material-icons/package.json": "5ae8ca1016d55b94f02f8fb383d1e0f0fd979947",
-    "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
-    "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
-    "/assets/readme.MD": "d07f33087c4dc7f86f9db273ad807df2410851f6",
-    "/index.html": "0c3472907abb45e15d27f773cd7eb5819935926f",
-    "/main.7c484502ad680b3c.js": "9b2fb063f246a45065406b0e9b8e1e7a3139a216",
-    "/polyfills.9825d27c06e87ba3.js": "81b58d0624250097e25df0e014d6b16431d55e74",
-    "/runtime.f2bb1c3bdcfeb5bb.js": "49621d1052cc4649feff1a56724fd6039c31cc92",
-    "/scripts.c8efc56d17e2d903.js": "1d4668626e24d4368f304dc16e584abd77ac2f24",
-    "/styles.9b2ee2e6619be494.css": "014b5052d69ccc04c83149108f9580b449c6bc04"
+    "/assets/icons/material-icons/400.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
+    "/assets/icons/material-icons/CHANGELOG.md": "70161ddc32b299407dbc49986820aa42a2880c03",
+    "/assets/icons/material-icons/LICENSE": "e3a69b77e8e0e686307e1cfcbc54d23847776092",
+    "/assets/icons/material-icons/README.md": "ca10ac0b1727cea292e7e666a3c524e3eb553ae3",
+    "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff": "a00c7900fc85bb011b36e4d70d7825127c02c63c",
+    "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
+    "/assets/icons/material-icons/index.css": "b8520402e6fa5c6068c919fbeda8d36ecfc6c55c",
+    "/assets/icons/material-icons/latin-400.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
+    "/assets/icons/material-icons/latin.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
+    "/assets/icons/material-icons/metadata.json": "3b953e34bffa0f4ab2b09762fe5478f6b0533c44",
+    "/assets/icons/material-icons/package.json": "da89deb1bb254768c8a4ffd0b4c8383ed3aebb27",
+    "/assets/icons/material-icons/scss/metadata.scss": "7a6a438f8de37e90c877eccfc235e85facb071c9",
+    "/assets/icons/material-icons/scss/mixins.scss": "7afa282739bb2711069112ce14b7bfea9e1e153b",
+    "/assets/icons/material-icons/unicode.json": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+    "/assets/readme.MD": "73eed59cd55637918a4e7583fddadd7cc3db88a9",
+    "/assets/themes/deeppurple-amber.css": "1bc1338e4e0a0abc3b88d2e86d9f04e05a7dc4ee",
+    "/assets/themes/indigo-pink.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
+    "/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
+    "/index.html": "348f32c71e5d80ac8ea21db71922628122665696",
+    "/main.1c15fa0e60f1f5ea.js": "3610c1fa97520d2780b8cc66135040885a318c54",
+    "/polyfills.29c54a0ed9c369d3.js": "64164cc13e976514680e5ab1cbd157156b415969",
+    "/runtime.d5a40815e673db2d.js": "bb375203347c72227ed5a778c0c237154be31438",
+    "/scripts.04a8000cd1bb7deb.js": "e022ea40cf10f69c34c8171218af85a78b94e38e",
+    "/styles.eb719866b16087a9.css": "d7aad293c73dc7afe1343d32aa9be532902365a1"
   },
   "navigationUrls": [
     {
