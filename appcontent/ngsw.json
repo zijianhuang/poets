@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693877493363,
+  "timestamp": 1693878318488,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -13,7 +13,7 @@
       },
       "urls": [
         "/index.html",
-        "/runtime.d5a40815e673db2d.js",
+        "/runtime.aa3789e5fa8219d1.js",
         "/styles.eb719866b16087a9.css"
       ],
       "patterns": []
@@ -27,11 +27,11 @@
       },
       "urls": [
         "/466.00062457a81135cf.js",
-        "/569.77532c594064efac.js",
+        "/569.35f3661443468e1b.js",
         "/875.cd3de5fe16bc5cb3.js",
         "/main.1c15fa0e60f1f5ea.js",
         "/polyfills.29c54a0ed9c369d3.js",
-        "/scripts.04a8000cd1bb7deb.js"
+        "/scripts.6d235b812cd1eef5.js"
       ],
       "patterns": []
     },
@@ -113,7 +113,7 @@
   ],
   "hashTable": {
     "/466.00062457a81135cf.js": "8e9cbd5d7dbc346dab17f8cc48cea50a24e3af43",
-    "/569.77532c594064efac.js": "fa2d79df1f8283fa912dff95f270eec8d3c8f2ea",
+    "/569.35f3661443468e1b.js": "198e0fdf20dd1a66fd6dcdb490934192c28f899f",
     "/875.cd3de5fe16bc5cb3.js": "38aa924fcaeade2098bf0386f93e42a2e2be69f9",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
@@ -150,11 +150,11 @@
     "/assets/themes/deeppurple-amber.css": "1bc1338e4e0a0abc3b88d2e86d9f04e05a7dc4ee",
     "/assets/themes/indigo-pink.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
     "/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
-    "/index.html": "348f32c71e5d80ac8ea21db71922628122665696",
+    "/index.html": "5ec7a494fa49dcb44d7107a983234930ff99f979",
     "/main.1c15fa0e60f1f5ea.js": "3610c1fa97520d2780b8cc66135040885a318c54",
     "/polyfills.29c54a0ed9c369d3.js": "64164cc13e976514680e5ab1cbd157156b415969",
-    "/runtime.d5a40815e673db2d.js": "bb375203347c72227ed5a778c0c237154be31438",
-    "/scripts.04a8000cd1bb7deb.js": "e022ea40cf10f69c34c8171218af85a78b94e38e",
+    "/runtime.aa3789e5fa8219d1.js": "f02b4c812b4eec06f529e468daf05077e0e39d26",
+    "/scripts.6d235b812cd1eef5.js": "63a98de3f39ce399213dae59d0577a39df3b7eab",
     "/styles.eb719866b16087a9.css": "d7aad293c73dc7afe1343d32aa9be532902365a1"
   },
   "navigationUrls": [
