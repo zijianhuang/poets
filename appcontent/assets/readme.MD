@@ -66,6 +66,28 @@ The import could be done in 2 ways:
 1. In index.hmtl, add `<link rel="stylesheet" href="assets/icons/material-icons/index.css">`
 2. Copy installed icons to folder `src\assets\icon`, while all stuffs in assets will be deployed.
 
+`index.css` is not good enough yet, append the following:
+
+```css
+.material-icons {
+  font-family: 'Material Icons';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;  /* Preferred icon size */
+  display: inline-block;
+  line-height: 1;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+```
+
 And to make things be loaded ASAP, use the following:
 ```html
 	<link rel="prefetch" as="style" onload="this.rel = 'stylesheet'" href="assets/icons/material-icons/index.css" />
