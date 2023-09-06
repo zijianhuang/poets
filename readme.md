@@ -4,7 +4,11 @@ published content in branch gh-pages with [poems by the following poets](https:/
 * Edgar Allan Poe
 * 李白
 
+The build is based on buildProdApp.bat.
 
+After testing, replace /app/ with /poets/ for index.html and ngsw.json
+
+### Initial setup
 Github Pages insists that docs is the subfolder to be publishe, as described at:
 
 1. https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
@@ -16,6 +20,4 @@ When building the readonly app published in a relative path, I would use /app/. 
 mklink /J docs app
 ```
 
-Git should pick /docs/ and ignore /app/.
-
-After testing, replace /app/ with /poets/ for index.html and ngsw.json
+Git should then pick /docs/ and ignore /app/.
