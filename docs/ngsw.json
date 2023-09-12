@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694556144365,
+  "timestamp": 1694562279385,
   "appData": "PoetryApp ServiceWorker",
   "index": "/app/index.html",
   "assetGroups": [
@@ -13,8 +13,8 @@
       },
       "urls": [
         "/app/index.html",
-        "/app/runtime.d56dfacd333f4413.js",
-        "/app/styles.a03e83e3a2bba77d.css"
+        "/app/runtime.ecb5d3a4d759f679.js",
+        "/app/styles.d7d00f20af744138.css"
       ],
       "patterns": []
     },
@@ -27,11 +27,11 @@
       },
       "urls": [
         "/app/466.9fce91fb7558ba01.js",
-        "/app/569.cc7fa4f5368a1e91.js",
-        "/app/875.16ee405e7f06e41b.js",
+        "/app/569.ea0b0b90f6aa68b1.js",
+        "/app/875.2332bf3d725adcc5.js",
         "/app/main.4c2c1bfa316282ce.js",
         "/app/polyfills.29c54a0ed9c369d3.js",
-        "/app/scripts.a1ea459fe360b4fe.js"
+        "/app/scripts.950dca754d0e2bf2.js"
       ],
       "patterns": []
     },
@@ -113,8 +113,8 @@
   ],
   "hashTable": {
     "/app/466.9fce91fb7558ba01.js": "58ddecd139bad8ac4fb0cae85becddf89f6faafe",
-    "/app/569.cc7fa4f5368a1e91.js": "12912d39f6d6c080adeedfa1c8a16ce409eafac2",
-    "/app/875.16ee405e7f06e41b.js": "0f055791fe30435f89426134d605cadd134ffd84",
+    "/app/569.ea0b0b90f6aa68b1.js": "a20bae1c86c1a92d73bb8b1863af7c6da08e9171",
+    "/app/875.2332bf3d725adcc5.js": "84457df8a6d108e4f0404697d3c2a687f3c4159b",
     "/app/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/app/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
     "/app/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -150,12 +150,12 @@
     "/app/assets/themes/deeppurple-amber.css": "1bc1338e4e0a0abc3b88d2e86d9f04e05a7dc4ee",
     "/app/assets/themes/indigo-pink.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
     "/app/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
-    "/app/index.html": "f1103367d18d8638312f491a39207bdecac539ea",
+    "/app/index.html": "3ec55039f8b5469a56fd3b0b5357a26d0b104d56",
     "/app/main.4c2c1bfa316282ce.js": "81f29d65d4fffe5d40d36b6487eba39f56d3d7c5",
     "/app/polyfills.29c54a0ed9c369d3.js": "64164cc13e976514680e5ab1cbd157156b415969",
-    "/app/runtime.d56dfacd333f4413.js": "a051ccc86a4bc3a0b26f64892d4c285c70ec930c",
-    "/app/scripts.a1ea459fe360b4fe.js": "a4e35bc7c7867ab6205e3f8e92adf64fd3946706",
-    "/app/styles.a03e83e3a2bba77d.css": "aa8d31493b3bffdc3212bb928840edc4bf736e63"
+    "/app/runtime.ecb5d3a4d759f679.js": "dfb43c367743ca1a7006a985ea3236cc9862a3d1",
+    "/app/scripts.950dca754d0e2bf2.js": "ff725e4d2d123c4f87cef28658f037ffb8579072",
+    "/app/styles.d7d00f20af744138.css": "098f7993db0b1a9ad9e742a5d6f521b385678884"
   },
   "navigationUrls": [
     {
