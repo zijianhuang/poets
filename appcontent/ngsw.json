@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1694468963011,
+  "timestamp": 1694554680267,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -13,8 +13,8 @@
       },
       "urls": [
         "/index.html",
-        "/runtime.958ff07b139e95f0.js",
-        "/styles.634309603d95ae99.css"
+        "/runtime.d56dfacd333f4413.js",
+        "/styles.2f2e5add010b1986.css"
       ],
       "patterns": []
     },
@@ -26,12 +26,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/466.392041756dea4be1.js",
-        "/569.10d305e378ccc72b.js",
-        "/875.750dc3ed68fd28aa.js",
+        "/466.9fce91fb7558ba01.js",
+        "/569.cc7fa4f5368a1e91.js",
+        "/875.16ee405e7f06e41b.js",
         "/main.4c2c1bfa316282ce.js",
         "/polyfills.29c54a0ed9c369d3.js",
-        "/scripts.42828b37c8a45450.js"
+        "/scripts.0cd79a6cbf40a687.js"
       ],
       "patterns": []
     },
@@ -112,9 +112,9 @@
     }
   ],
   "hashTable": {
-    "/466.392041756dea4be1.js": "3f884b283d7a57612a7d24f00bac00fdf00317f9",
-    "/569.10d305e378ccc72b.js": "3feab9dce35f1dacc7198c88eaf52dcc6d75a30d",
-    "/875.750dc3ed68fd28aa.js": "19af9b7c669c763e682c5192e701d0c1dd64504c",
+    "/466.9fce91fb7558ba01.js": "58ddecd139bad8ac4fb0cae85becddf89f6faafe",
+    "/569.cc7fa4f5368a1e91.js": "12912d39f6d6c080adeedfa1c8a16ce409eafac2",
+    "/875.16ee405e7f06e41b.js": "0f055791fe30435f89426134d605cadd134ffd84",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "56330e20fac53bb04fa41e87db6c1cbfcbe7a479",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -150,12 +150,12 @@
     "/assets/themes/deeppurple-amber.css": "1bc1338e4e0a0abc3b88d2e86d9f04e05a7dc4ee",
     "/assets/themes/indigo-pink.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
     "/assets/themes/theme.css": "aa155f7031ddd5742e573acfa01a5509bb129c9d",
-    "/index.html": "bba33c626032df117ef0924898995a72fa4dbf38",
+    "/index.html": "477c34b2bd1365149347d6b72669bab83dc92db7",
     "/main.4c2c1bfa316282ce.js": "81f29d65d4fffe5d40d36b6487eba39f56d3d7c5",
     "/polyfills.29c54a0ed9c369d3.js": "64164cc13e976514680e5ab1cbd157156b415969",
-    "/runtime.958ff07b139e95f0.js": "2cc48ff62dbc112751246f289f1bc95e1c0df1f6",
-    "/scripts.42828b37c8a45450.js": "94857e97eecb4930d6c1065932b6766dac5624fa",
-    "/styles.634309603d95ae99.css": "0651c8f21cab9bef79b652b7582a24acf7fc1873"
+    "/runtime.d56dfacd333f4413.js": "a051ccc86a4bc3a0b26f64892d4c285c70ec930c",
+    "/scripts.0cd79a6cbf40a687.js": "c2721e57cec477a732298b7575939a1d4997c5ad",
+    "/styles.2f2e5add010b1986.css": "76846039325f1e30e430d5eaa9cfbf73498107a8"
   },
   "navigationUrls": [
     {
