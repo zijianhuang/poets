@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1739695594593,
+  "timestamp": 1739739042028,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -25,14 +25,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-BYIG2KTZ.js",
-        "/chunk-DVCN2JV7.js",
-        "/chunk-L32VKIUL.js",
-        "/chunk-UZ2K5SAC.js",
-        "/chunk-ZTGC75WK.js",
-        "/main-5NFLSPMY.js",
+        "/chunk-D23BB3KA.js",
+        "/chunk-D6Q64SJH.js",
+        "/chunk-QIE7IVWB.js",
+        "/chunk-S7APHB7T.js",
+        "/chunk-YWUDFYX4.js",
+        "/main-IKKTATP5.js",
         "/polyfills-O3PCMKBQ.js",
-        "/scripts-MT3GXLOY.js"
+        "/scripts-WMHOEIR2.js"
       ],
       "patterns": []
     },
@@ -166,15 +166,15 @@
     "/assets/themes/purple-green.css": "9c451bc52eb50e38a56b781de1dc83e074bde997",
     "/assets/themes/rose-red.css": "3842cabfbc280a21708c9a397e6e4ac6b45b98d7",
     "/assets/themes/theme.css": "723a85675e4943b42e5904ce4d307b55a3331016",
-    "/chunk-BYIG2KTZ.js": "d5d0625a3fda56703eebaf76ea7a49e1767924ac",
-    "/chunk-DVCN2JV7.js": "819620076f88d30cc6710ee0db0394f6a7aa9ed2",
-    "/chunk-L32VKIUL.js": "2eea26bb1b7669f4f69e9800e56a45bd7dd0cc56",
-    "/chunk-UZ2K5SAC.js": "bad75c15e9417643e18d1ebcb0dfc9652c72803c",
-    "/chunk-ZTGC75WK.js": "f3de28239dd6180ae9e31fefb1131676f92c259f",
-    "/index.html": "93a52bf943671c51be7b294ff150048ad20496b9",
-    "/main-5NFLSPMY.js": "73b7aa011cbd9b3c52c0f71572e6ec09e9b00095",
+    "/chunk-D23BB3KA.js": "a3fdb75be03b0b3c6efbebd524676c09f2fd3737",
+    "/chunk-D6Q64SJH.js": "426ddde92fa19b18232e42929330fbae8cfd5efb",
+    "/chunk-QIE7IVWB.js": "ca6e0908c6754c9e15c8514916c9c60bbe7351e8",
+    "/chunk-S7APHB7T.js": "9eb8b859ea67d35a73181f3c86aba211f79233bc",
+    "/chunk-YWUDFYX4.js": "49858cad4ad3bdfce73c62f1e569a2c44a5a2a92",
+    "/index.html": "89e546c0d648768b73217fb3a923f283533254aa",
+    "/main-IKKTATP5.js": "828d6119b13c77c588a6def6793eaa72af8a2c8f",
     "/polyfills-O3PCMKBQ.js": "1c51d47344c8c35b9e4f91f3f4cde9b02ba9f86a",
-    "/scripts-MT3GXLOY.js": "9d83b32ac3c4c0a434ddf9253814633a7663bfb2",
+    "/scripts-WMHOEIR2.js": "98544e6f993dd25218e46e0e488b0a66977ea3ec",
     "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [
