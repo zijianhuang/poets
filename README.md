@@ -13,7 +13,7 @@ The build is based on buildProd.ps1 of the PoemsCollection repos. And the app up
 Then run `startProd.ps1` and browse http://localhost/poets/ .
 
 ## Local Testing Setup
-For the continence of testing, I use symbolic link from app to docs, with the following script:
+For the convenience of testing, I use symbolic link from app to docs, with the following script:
 
 ```
 mklink /J poets docs
