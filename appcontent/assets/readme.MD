@@ -66,7 +66,7 @@ The import could be done in 2 ways:
 1. In index.hmtl, add `<link rel="stylesheet" href="assets/icons/material-icons/index.css">`
 2. Copy installed icons to folder `src\assets\icon`, while all stuffs in assets will be deployed.
 
-`index.css` is not good enough yet, append the following:
+`index.css` is not good enough yet, append the following (reviewed on 2025-01-09 with "@angular/material": "19.0.4" and "@fontsource/material-icons": "5.1.1"):
 
 ```css
 .material-icons {

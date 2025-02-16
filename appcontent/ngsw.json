@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1721109994311,
+  "timestamp": 1739739042028,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -13,8 +13,7 @@
       },
       "urls": [
         "/index.html",
-        "/runtime.953965318db7dfc4.js",
-        "/styles.0118b5eb67a0f7b1.css"
+        "/styles-U33Q4MXJ.css"
       ],
       "patterns": []
     },
@@ -26,12 +25,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/258.97985fecae0dd80b.js",
-        "/278.24dd4e182e00f8de.js",
-        "/850.604eb8c01f01dca9.js",
-        "/main.462ece3f222d5b15.js",
-        "/polyfills.2eab56e9e8fd621c.js",
-        "/scripts.66651ced0e4755c5.js"
+        "/chunk-D23BB3KA.js",
+        "/chunk-D6Q64SJH.js",
+        "/chunk-QIE7IVWB.js",
+        "/chunk-S7APHB7T.js",
+        "/chunk-YWUDFYX4.js",
+        "/main-IKKTATP5.js",
+        "/polyfills-O3PCMKBQ.js",
+        "/scripts-WMHOEIR2.js"
       ],
       "patterns": []
     },
@@ -43,6 +44,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/assets/README.md",
         "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot",
         "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg",
         "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf",
@@ -69,6 +71,7 @@
         "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff",
         "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff2",
         "/assets/icons/material-icons/index.css",
+        "/assets/icons/material-icons/index.css.bak",
         "/assets/icons/material-icons/latin-400.css",
         "/assets/icons/material-icons/latin.css",
         "/assets/icons/material-icons/metadata.json",
@@ -76,7 +79,6 @@
         "/assets/icons/material-icons/scss/metadata.scss",
         "/assets/icons/material-icons/scss/mixins.scss",
         "/assets/icons/material-icons/unicode.json",
-        "/assets/readme.MD",
         "/assets/themes/azure-blue.css",
         "/assets/themes/cyan-orange.css",
         "/assets/themes/deeppurple-amber.css",
@@ -120,9 +122,7 @@
     }
   ],
   "hashTable": {
-    "/258.97985fecae0dd80b.js": "ccccada480230cd844d86f1db35bdd8f4e780c2b",
-    "/278.24dd4e182e00f8de.js": "7b963fa9185d46126a8d37efba23acbd28cf894d",
-    "/850.604eb8c01f01dca9.js": "e705e73a1b8eb4ef2c23598b4c16f7a22adac9fb",
+    "/assets/README.md": "0dc3b421660554e476577051a7d2f58f0d78129d",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "70b06164ae297288686e1c74ac15f412f91f3043",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -142,36 +142,40 @@
     "/assets/icons/jian.svg": "4beb9d7c1528021af60911cb3aa9040736beea72",
     "/assets/icons/material-icons/400.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
     "/assets/icons/material-icons/CHANGELOG.md": "70161ddc32b299407dbc49986820aa42a2880c03",
-    "/assets/icons/material-icons/LICENSE": "e3a69b77e8e0e686307e1cfcbc54d23847776092",
-    "/assets/icons/material-icons/README.md": "d88a9b1125495579522accbed26dcae8d704f2a1",
+    "/assets/icons/material-icons/LICENSE": "56a8a07d0b23932a3584969fb8f95cc3d9976a94",
+    "/assets/icons/material-icons/README.md": "c9cad6341d9f700fed22bc45ded2e68880829cb7",
     "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff": "a00c7900fc85bb011b36e4d70d7825127c02c63c",
     "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
     "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
     "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
     "/assets/icons/material-icons/index.css": "b8520402e6fa5c6068c919fbeda8d36ecfc6c55c",
+    "/assets/icons/material-icons/index.css.bak": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
     "/assets/icons/material-icons/latin-400.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
     "/assets/icons/material-icons/latin.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
-    "/assets/icons/material-icons/metadata.json": "d07334d4dbd7b43e3410e0bed3d048580bf76721",
-    "/assets/icons/material-icons/package.json": "1f7eb8be314c44eb55735df68174307eab88d787",
+    "/assets/icons/material-icons/metadata.json": "8f8c02b8fa26cee4776eaef3967eca70440407f4",
+    "/assets/icons/material-icons/package.json": "044b0dacdb35932cabb0ef770e103c25bfc88c6c",
     "/assets/icons/material-icons/scss/metadata.scss": "1c0750aa90a29a853d773173f7781aa3b07ea54e",
     "/assets/icons/material-icons/scss/mixins.scss": "680eceac75aa5cc3d109e590180ca12f7afb643c",
     "/assets/icons/material-icons/unicode.json": "548fd0672e69c0f8975b49d930fd290c1845c7ea",
-    "/assets/readme.MD": "ce6f2015308cbc1c38068d789b110e0f4f591de6",
-    "/assets/themes/azure-blue.css": "78f0a47369468e504be3db053688f74b81a6d89a",
-    "/assets/themes/cyan-orange.css": "721633352b859b0856700801cbe02ae339b4846b",
-    "/assets/themes/deeppurple-amber.css": "e9307cdf892ee777a574f34c10d5d4abf41aaa5d",
-    "/assets/themes/indigo-pink.css": "f1ced26236a54df3a7621c27760ce1e532be58a6",
-    "/assets/themes/magenta-violet.css": "4f161d972dd88a2e8301119ede1bf1d3c1979d26",
-    "/assets/themes/pink-bluegrey.css": "d2e0eea80652b9cc480436c2bcad96a159e6e545",
-    "/assets/themes/purple-green.css": "7415b30e6006a13e47b98a5651367ff24076eef6",
-    "/assets/themes/rose-red.css": "94b3abb0839724857c57ddaeee9b41fb5ded8729",
-    "/assets/themes/theme.css": "94b3abb0839724857c57ddaeee9b41fb5ded8729",
-    "/index.html": "a905ad6c8e96cf4c6dabdc05a5c16676d45b5f95",
-    "/main.462ece3f222d5b15.js": "9dd6d12322766d6f8f87c6508eb06e8078678a32",
-    "/polyfills.2eab56e9e8fd621c.js": "b852484bb7c512b489cc6115662935164c64ed09",
-    "/runtime.953965318db7dfc4.js": "f5e2579520964f1ed37f77fdcb80ed34716ef816",
-    "/scripts.66651ced0e4755c5.js": "cd6a9f13236dae72dc0cbb0ed422ab60b47c979c",
-    "/styles.0118b5eb67a0f7b1.css": "f10339294636b778c622a2e42ccec6e0e87d0558"
+    "/assets/themes/azure-blue.css": "723a85675e4943b42e5904ce4d307b55a3331016",
+    "/assets/themes/cyan-orange.css": "788ad7d508aeca309dd4f2b48ced6a0bdc3f6fa7",
+    "/assets/themes/deeppurple-amber.css": "625caef04a938e540167d5512b43196ef7f57e51",
+    "/assets/themes/indigo-pink.css": "23f135290e8d9a376d975ee2bf2b3dd77b683689",
+    "/assets/themes/magenta-violet.css": "6f21f36a88dcefec833d5ea47f221619df5ea943",
+    "/assets/themes/pink-bluegrey.css": "418b93521656881630b40b05372959e4fd08af30",
+    "/assets/themes/purple-green.css": "9c451bc52eb50e38a56b781de1dc83e074bde997",
+    "/assets/themes/rose-red.css": "3842cabfbc280a21708c9a397e6e4ac6b45b98d7",
+    "/assets/themes/theme.css": "723a85675e4943b42e5904ce4d307b55a3331016",
+    "/chunk-D23BB3KA.js": "a3fdb75be03b0b3c6efbebd524676c09f2fd3737",
+    "/chunk-D6Q64SJH.js": "426ddde92fa19b18232e42929330fbae8cfd5efb",
+    "/chunk-QIE7IVWB.js": "ca6e0908c6754c9e15c8514916c9c60bbe7351e8",
+    "/chunk-S7APHB7T.js": "9eb8b859ea67d35a73181f3c86aba211f79233bc",
+    "/chunk-YWUDFYX4.js": "49858cad4ad3bdfce73c62f1e569a2c44a5a2a92",
+    "/index.html": "89e546c0d648768b73217fb3a923f283533254aa",
+    "/main-IKKTATP5.js": "828d6119b13c77c588a6def6793eaa72af8a2c8f",
+    "/polyfills-O3PCMKBQ.js": "1c51d47344c8c35b9e4f91f3f4cde9b02ba9f86a",
+    "/scripts-WMHOEIR2.js": "98544e6f993dd25218e46e0e488b0a66977ea3ec",
+    "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [
     {
