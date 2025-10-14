@@ -4,6 +4,7 @@ const SITE_CONFIG = {
 	copyPoemEnabled: true,
 	copyAlbumEnabled: false,
 	formFieldAppearance: 0,
+	hashLocationStrategy: true,
 	staticDatas: [
 		{filename: 'Shelley', poetName: 'Percy Bysshe Shelley'},
 		{filename: 'Byron', poetName: 'George Gordon Byron'},
