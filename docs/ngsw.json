@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760557231199,
+  "timestamp": 1760565521191,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -25,14 +25,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-2Z337SPU.js",
-        "/chunk-IRFJBWAB.js",
-        "/chunk-WCUGR54V.js",
-        "/chunk-WFRROKIR.js",
-        "/chunk-XVVTBKUT.js",
-        "/main-F4NXMBU4.js",
+        "/chunk-AR7SDVCC.js",
+        "/chunk-CYXXNXZJ.js",
+        "/chunk-FS3Z5GBB.js",
+        "/chunk-O2KGYPLO.js",
+        "/chunk-YNAPIXAM.js",
+        "/main-CE53VRL2.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-PPHLKXGQ.js"
+        "/scripts-USFS5MHU.js"
       ],
       "patterns": []
     },
@@ -164,15 +164,15 @@
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
     "/assets/themes/theme.css": "ee7712154ef65a415874219c7cbd84502c4fd8fd",
-    "/chunk-2Z337SPU.js": "67dcf645003756aa815235f56929660e7eaf6e8f",
-    "/chunk-IRFJBWAB.js": "de1e4ae0cc31b2563bd75c00e2d0c254f7402ca3",
-    "/chunk-WCUGR54V.js": "7c940511645d5eb29e0e206bd771617bffcca2b6",
-    "/chunk-WFRROKIR.js": "93e5bbdb8d9983358d5893691c48981b3efee554",
-    "/chunk-XVVTBKUT.js": "05449c2bd0fc3b36ef1b4426e8a4ba6db754c8ef",
-    "/index.html": "bf9c313a91476a4f7eeb660914944889d10d1b02",
-    "/main-F4NXMBU4.js": "aac81835e0b89f63249cbf0023e9952d5231dec7",
+    "/chunk-AR7SDVCC.js": "569296dba70fc40baf7a6c7834f31253f555fe6b",
+    "/chunk-CYXXNXZJ.js": "ba1fe1f89b70af0a7c34ea8dc68910e8e7506ce9",
+    "/chunk-FS3Z5GBB.js": "70f4725162c88111485d7c7afc217bacef499f5d",
+    "/chunk-O2KGYPLO.js": "95f53bebe93cd8ba9a0dcf79a4959fba6e103160",
+    "/chunk-YNAPIXAM.js": "045583b3996504e0d8d5cf0d271a68898693a4de",
+    "/index.html": "06d24d6534f0c9946198bb278f6217c4aca3c121",
+    "/main-CE53VRL2.js": "20b2506e00e01bab87207e9e4b82ca8f744c991c",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-PPHLKXGQ.js": "71b1427825c068feedcd4512b74377876fb01608",
+    "/scripts-USFS5MHU.js": "6d4de88a12df9d7718bfdf0f3ba16f7ebcd032b5",
     "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [
