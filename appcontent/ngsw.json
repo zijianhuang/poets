@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760751159438,
+  "timestamp": 1760758025109,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -32,7 +32,7 @@
         "/chunk-YR36N2XA.js",
         "/main-YS4MVM2W.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-MPWL5VO4.js"
+        "/scripts-AM75IXJ4.js"
       ],
       "patterns": []
     },
@@ -169,10 +169,10 @@
     "/chunk-OCP24ZRO.js": "8c7826bd7954cbf47541126135452eba423aef7b",
     "/chunk-RNMNRS25.js": "55f9c16522e0f20afa7e74a67a76bdd0a192a682",
     "/chunk-YR36N2XA.js": "953cd84089a997c471a6935ebed7c41635a76e6d",
-    "/index.html": "d531c5b2ba8669e17366af22af23bcbd55501515",
+    "/index.html": "dcae6d7a98e49c7278e79c86baa95066c86bd74e",
     "/main-YS4MVM2W.js": "73796ec70b902b64a33b1f65c9ef77226e590116",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-MPWL5VO4.js": "2043cf7f48662d5babb2cd67722b32f9cddf51cc",
+    "/scripts-AM75IXJ4.js": "9b2fb95d29131aeef63baa3be0d62d15dbf18c39",
     "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [
