@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760772080168,
+  "timestamp": 1760823724386,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -31,7 +31,7 @@
         "/chunk-VDE7TQ43.js",
         "/main-BDUTCF6F.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-KZKJSI7A.js"
+        "/scripts-DDEHCRIU.js"
       ],
       "patterns": []
     },
@@ -170,7 +170,7 @@
     "/chunk-VDE7TQ43.js": "e4cbe17281dc44752d99f8751bc178c38adb9350",
     "/main-BDUTCF6F.js": "cf9534d6d48d0901958c02c0746017e1338298c6",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-KZKJSI7A.js": "6680c09baa393d42861b8d1c4e4fc4f2c4be45f9",
+    "/scripts-DDEHCRIU.js": "caf1f09e6cc98dd21ee004de8cb90db84285ebe5",
     "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [

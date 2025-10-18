@@ -2,7 +2,6 @@
   "navigationFallback": {
     "rewrite": "/index.html",
     "exclude": [
-	  "/index.html",
       "/ngsw.json",
       "/main.*.js",
       "/runtime.*.js",
