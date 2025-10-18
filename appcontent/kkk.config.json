@@ -1,0 +1,13 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/ngsw.json",
+      "/main.*.js",
+      "/runtime.*.js",
+      "/polyfills.*.js",
+      "/styles.*.css",
+      "/assets/*"
+    ]
+  }
+}
