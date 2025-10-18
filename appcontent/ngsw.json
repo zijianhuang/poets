@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760758288801,
+  "timestamp": 1760761178286,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -25,14 +25,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-AJNBCIOY.js",
-        "/chunk-EVJJ3ZTB.js",
-        "/chunk-OCP24ZRO.js",
-        "/chunk-RNMNRS25.js",
-        "/chunk-YR36N2XA.js",
-        "/main-YS4MVM2W.js",
+        "/chunk-6JZAE4PC.js",
+        "/chunk-HSBPZGL3.js",
+        "/chunk-M34HZUFZ.js",
+        "/chunk-S2SP5RAT.js",
+        "/chunk-YDKUA32S.js",
+        "/main-D2MMC7TQ.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-6GJ7V5W6.js"
+        "/scripts-TPGE75NL.js"
       ],
       "patterns": []
     },
@@ -164,15 +164,15 @@
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
     "/assets/themes/theme.css": "ee7712154ef65a415874219c7cbd84502c4fd8fd",
-    "/chunk-AJNBCIOY.js": "ea27945adbbd5457043dd059ae5ddca4e2a0ccb2",
-    "/chunk-EVJJ3ZTB.js": "28e16c57bd45f061e1361c86aaa848ae27986a5a",
-    "/chunk-OCP24ZRO.js": "8c7826bd7954cbf47541126135452eba423aef7b",
-    "/chunk-RNMNRS25.js": "55f9c16522e0f20afa7e74a67a76bdd0a192a682",
-    "/chunk-YR36N2XA.js": "953cd84089a997c471a6935ebed7c41635a76e6d",
-    "/index.html": "09488c4347f5cdf6d064871529dde292f0987dde",
-    "/main-YS4MVM2W.js": "73796ec70b902b64a33b1f65c9ef77226e590116",
+    "/chunk-6JZAE4PC.js": "d6b04bc299774ca5c3edf3862ea0f6b6ea03aef0",
+    "/chunk-HSBPZGL3.js": "6097ba97e9ceb550aa9dae4f8a98675ede57eff0",
+    "/chunk-M34HZUFZ.js": "0a0980354c3f67ffde14c2bb92b45507090c8de5",
+    "/chunk-S2SP5RAT.js": "8f70d6a702f6e880dfbce3123e5ced4def0c8bee",
+    "/chunk-YDKUA32S.js": "5341372c53bb7064f889a418fac0e3f8a62dc56f",
+    "/index.html": "4abc7681dc72607526157b6872d621006dcfcea7",
+    "/main-D2MMC7TQ.js": "57006c313a045b39d27819acec6caa499e943da5",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-6GJ7V5W6.js": "a2f0b96fcfa244d21f970b4f335c0e4aaed50eb0",
+    "/scripts-TPGE75NL.js": "cad996d16a62e2c39a546ae0c235eb5ee8e50a02",
     "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [
