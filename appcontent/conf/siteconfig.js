@@ -1,10 +1,12 @@
 const SITE_CONFIG = {
 	siteName: 'Poetry Collection',
-	themeName: 'azure-blue',
+	themeName: 'rose-red',
 	staticReadonly: true,
 	copyPoemEnabled: true,
 	copyAlbumEnabled: false,
-	chronologyEnabled: true
+	chronologyEnabled: true,
+	formFieldAppearance: 0,
+	hashLocationStrategy: true,
 	staticDatas: [
 		{filename: 'Shelley', poetName: 'Percy Bysshe Shelley'},
 		{filename: 'Byron', poetName: 'George Gordon Byron'},

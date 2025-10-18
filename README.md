@@ -6,6 +6,7 @@ published content in branch azure-pages with [poems by the following poets](http
 
 The build is based on buildProdEn.ps1 in repos "PoemsCollection".
 
+After pushing, GitHub actions will publish to Azure.
 ### Initial Setup
 
 https://portal.azure.com/#@zijianhuang2000gmail.onmicrosoft.com/resource/subscriptions/47e55706-adf2-4d2c-a434-44e9e2a0394b/resourceGroups/Poetry_group/providers/Microsoft.Web/staticSites/Poetry/staticsite
