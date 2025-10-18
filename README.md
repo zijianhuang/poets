@@ -4,7 +4,7 @@ published content in branch azure-pages with [poems by the following poets](http
 * Edgar Allan Poe
 * 李白
 
-The build is based on buildProd.ps1 in repos "PoemsCollection".
+The build is based on buildProdEn.ps1 in repos "PoemsCollection".
 
 ### Initial Setup
 
