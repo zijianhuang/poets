@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760858600636,
+  "timestamp": 1760909992161,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-CLILDESA.js",
-        "/chunk-ILP3MI75.js",
+        "/chunk-DLIJXASS.js",
         "/chunk-NS453UWB.js",
-        "/chunk-UHE5VLAC.js",
+        "/chunk-OYLFLGC2.js",
         "/chunk-VDE7TQ43.js",
-        "/main-BDUTCF6F.js",
+        "/chunk-YGUYSU7M.js",
+        "/main-L4TTC2IJ.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-SQJ3O7JV.js"
+        "/scripts-Q5TR6XE6.js"
       ],
       "patterns": []
     },
@@ -163,14 +163,14 @@
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
     "/assets/themes/theme.css": "ee7712154ef65a415874219c7cbd84502c4fd8fd",
-    "/chunk-CLILDESA.js": "6de3660901a6eaf96b0cfc93f21e680b54ac1479",
-    "/chunk-ILP3MI75.js": "689a4e11968e2c6b5cb3c4b71eed35d954f87745",
+    "/chunk-DLIJXASS.js": "8cb60f4e34252d075277f9046b2312ed479e2e3a",
     "/chunk-NS453UWB.js": "8cbf19748c946ae959393580e0ae4d61dde6ce97",
-    "/chunk-UHE5VLAC.js": "e208bb5df66811c0ab7f9040cb9f54f33be0530d",
+    "/chunk-OYLFLGC2.js": "f2cc0b36cb6935c67b83d1aa20ba63d31026c512",
     "/chunk-VDE7TQ43.js": "e4cbe17281dc44752d99f8751bc178c38adb9350",
-    "/main-BDUTCF6F.js": "cf9534d6d48d0901958c02c0746017e1338298c6",
+    "/chunk-YGUYSU7M.js": "8eb41ac80fdc66b5ffc883c0b22f1741d75c3022",
+    "/main-L4TTC2IJ.js": "67ef830b120e58c069becf687e7835a81f9a756c",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-SQJ3O7JV.js": "2f47adbc4659dfd4f8f97394f6b301ffd6e3de53",
+    "/scripts-Q5TR6XE6.js": "db8499489dc40932a52d3925606af19dfac08df2",
     "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [

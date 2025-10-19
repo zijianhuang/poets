@@ -1,6 +1,6 @@
 const SITE_CONFIG = {
 	siteName: 'Poetry Collection',
-	themeName: 'rose-red',
+	themeName: 'razure-blue',
 	staticReadonly: true,
 	copyPoemEnabled: true,
 	copyAlbumEnabled: false,
