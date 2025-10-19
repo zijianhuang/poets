@@ -1,9 +1,10 @@
 const SITE_CONFIG = {
 	siteName: 'Poetry Collection of Poets',
-	staticReadonly: true,
 	themeName: 'rose-red',
+	staticReadonly: true,
 	copyPoemEnabled: true,
 	copyAlbumEnabled: false,
+	chronologyEnabled: true,
 	formFieldAppearance: 0,
 	hashLocationStrategy: true,
 	staticDatas: [
