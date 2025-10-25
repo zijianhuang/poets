@@ -5,7 +5,7 @@ Published content in branch gh-pages with [poems by the following poets](https:/
 * 李白
 
 ## Regular App Update
-The build is based on buildProd.ps1 of the PoemsCollection repos. And the app update copies the following:
+The build is based on buildProdGitHubPages.ps1 of the PoemsCollection repos. And the app update copies the following:
 1. Files in root.
 1. assets
 1. Replace `<base href="/">` with `<base href="/poets/">` in index.html. (See Local Testing below)
