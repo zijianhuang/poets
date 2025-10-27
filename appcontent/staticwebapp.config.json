@@ -9,5 +9,17 @@
       "/styles.*.css",
       "/assets/*"
     ]
+  },
+
+  "routes": [
+    {
+      "route": "/media/*",
+      "allowedRoles": ["anonymous"]
+    }
+  ],
+  "mimeTypes": {
+    ".woff": "application/font-woff",
+    ".woff2": "font/woff2"
   }
+
 }
