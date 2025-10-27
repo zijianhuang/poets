@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760909992161,
+  "timestamp": 1761526398682,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/styles-U33Q4MXJ.css"
+        "/styles-RUUXDO6M.css"
       ],
       "patterns": []
     },
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-DLIJXASS.js",
-        "/chunk-NS453UWB.js",
-        "/chunk-OYLFLGC2.js",
-        "/chunk-VDE7TQ43.js",
-        "/chunk-YGUYSU7M.js",
-        "/main-L4TTC2IJ.js",
+        "/chunk-3KZNLWIV.js",
+        "/chunk-IZ3NNNLB.js",
+        "/chunk-LI3OI3PC.js",
+        "/chunk-NJCCBS5E.js",
+        "/chunk-V2OPQAOQ.js",
+        "/main-BKZ7MRBI.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-Q5TR6XE6.js"
+        "/scripts-U5SC26GT.js"
       ],
       "patterns": []
     },
@@ -61,22 +61,6 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/icons/jian.svg",
-        "/assets/icons/material-icons/400.css",
-        "/assets/icons/material-icons/CHANGELOG.md",
-        "/assets/icons/material-icons/LICENSE",
-        "/assets/icons/material-icons/README.md",
-        "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff",
-        "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff2",
-        "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff",
-        "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff2",
-        "/assets/icons/material-icons/index.css",
-        "/assets/icons/material-icons/latin-400.css",
-        "/assets/icons/material-icons/latin.css",
-        "/assets/icons/material-icons/metadata.json",
-        "/assets/icons/material-icons/package.json",
-        "/assets/icons/material-icons/scss/metadata.scss",
-        "/assets/icons/material-icons/scss/mixins.scss",
-        "/assets/icons/material-icons/unicode.json",
         "/assets/themes/azure-blue.css",
         "/assets/themes/cyan-orange.css",
         "/assets/themes/deeppurple-amber.css",
@@ -84,8 +68,20 @@
         "/assets/themes/magenta-violet.css",
         "/assets/themes/pink-bluegrey.css",
         "/assets/themes/purple-green.css",
-        "/assets/themes/rose-red.css",
-        "/assets/themes/theme.css"
+        "/assets/themes/rose-red.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "Material Symbols",
+      "installMode": "lazy",
+      "updateMode": "lazy",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff",
+        "/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2"
       ],
       "patterns": []
     }
@@ -106,13 +102,27 @@
       "version": 1
     },
     {
+      "name": "conf",
+      "patterns": [
+        "\\/conf\\/.*"
+      ],
+      "strategy": "performance",
+      "maxSize": 1000,
+      "maxAge": 60000,
+      "timeoutMs": 2000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    },
+    {
       "name": "staticReadonly",
       "patterns": [
         "\\/data\\/[^/]*\\.json"
       ],
       "strategy": "performance",
       "maxSize": 200,
-      "maxAge": 31536000000,
+      "maxAge": 86400000,
       "cacheQueryOptions": {
         "ignoreVary": true
       },
@@ -120,7 +130,7 @@
     }
   ],
   "hashTable": {
-    "/assets/README.md": "0dc3b421660554e476577051a7d2f58f0d78129d",
+    "/assets/README.md": "8102c741816b69d3a22b75764a591065b5756522",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.eot": "8b67fbbeaf9e994c678a21bb26a6463aa30e3352",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.svg": "70b06164ae297288686e1c74ac15f412f91f3043",
     "/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.ttf": "324ec20b91392a6871d7846e0ff2972447a1b2b8",
@@ -138,22 +148,6 @@
     "/assets/icons/icon-72x72.png": "8a8796e27874b989472e151cede0626c2368b305",
     "/assets/icons/icon-96x96.png": "005d363a7c6bcaf5befe7bc1413f0a39e0c07bd2",
     "/assets/icons/jian.svg": "378f17ab888b4e6171404ecd7895bb2565744a8d",
-    "/assets/icons/material-icons/400.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
-    "/assets/icons/material-icons/CHANGELOG.md": "70161ddc32b299407dbc49986820aa42a2880c03",
-    "/assets/icons/material-icons/LICENSE": "56a8a07d0b23932a3584969fb8f95cc3d9976a94",
-    "/assets/icons/material-icons/README.md": "ad77167cdbe13c022d5c231e8274a4fbaaf10000",
-    "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff": "a00c7900fc85bb011b36e4d70d7825127c02c63c",
-    "/assets/icons/material-icons/files/material-icons-latin-400-normal.woff2": "0bc0c675480d94ec7e8609dda6227f88c5d08d2c",
-    "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff": "b52ccd8fca4199d257b2a9fe377db29862f2853e",
-    "/assets/icons/material-icons/files/material-icons-outlined-latin-400-normal.woff2": "2f9e28ab559782402f27332633c843c40209d95a",
-    "/assets/icons/material-icons/index.css": "6da72bc545714a010c520715b502d80ecf81f4a6",
-    "/assets/icons/material-icons/latin-400.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
-    "/assets/icons/material-icons/latin.css": "bc6a2b6868621a8be4d635fa6d3c3223682445a6",
-    "/assets/icons/material-icons/metadata.json": "1ac3987906abc6cabf80f7cff358f62eaac9e860",
-    "/assets/icons/material-icons/package.json": "2d5b5b41f0545b64012dd72200a01692c375b03b",
-    "/assets/icons/material-icons/scss/metadata.scss": "8cbd971eb66f588e4a94b8bf9b87b946b0f79cf9",
-    "/assets/icons/material-icons/scss/mixins.scss": "ee7c59809e780fc9f5296b2b20d7ea50a24c6c72",
-    "/assets/icons/material-icons/unicode.json": "548fd0672e69c0f8975b49d930fd290c1845c7ea",
     "/assets/themes/azure-blue.css": "e0617464e355def4ce503cacc8d5b6604e53a51c",
     "/assets/themes/cyan-orange.css": "1f0dee1a1f0e3de3c50326a95302eeddae84fa55",
     "/assets/themes/deeppurple-amber.css": "ee7712154ef65a415874219c7cbd84502c4fd8fd",
@@ -162,16 +156,17 @@
     "/assets/themes/pink-bluegrey.css": "29503a340abc50fd34a863d6bc5acb9b781a3aae",
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/assets/themes/theme.css": "ee7712154ef65a415874219c7cbd84502c4fd8fd",
-    "/chunk-DLIJXASS.js": "8cb60f4e34252d075277f9046b2312ed479e2e3a",
-    "/chunk-NS453UWB.js": "8cbf19748c946ae959393580e0ae4d61dde6ce97",
-    "/chunk-OYLFLGC2.js": "f2cc0b36cb6935c67b83d1aa20ba63d31026c512",
-    "/chunk-VDE7TQ43.js": "e4cbe17281dc44752d99f8751bc178c38adb9350",
-    "/chunk-YGUYSU7M.js": "8eb41ac80fdc66b5ffc883c0b22f1741d75c3022",
-    "/main-L4TTC2IJ.js": "67ef830b120e58c069becf687e7835a81f9a756c",
+    "/chunk-3KZNLWIV.js": "c312d67f55a875f4293d3d8ba93a1df558f8ef12",
+    "/chunk-IZ3NNNLB.js": "f75cdfaea9aa38df5f2db0615c69221f75d7524a",
+    "/chunk-LI3OI3PC.js": "ecd0aff42d349a22b89dc0ebccf3e84830e4b596",
+    "/chunk-NJCCBS5E.js": "5d238ce699312704061e90d026393ff30d5e8d1b",
+    "/chunk-V2OPQAOQ.js": "d2ef73734257cec8dd54b6d59dfd42c60589c5b1",
+    "/main-BKZ7MRBI.js": "822f8f8b2bbdbb22b1338fbc43dad7b204e48b49",
+    "/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
+    "/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-Q5TR6XE6.js": "db8499489dc40932a52d3925606af19dfac08df2",
-    "/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
+    "/scripts-U5SC26GT.js": "989ddae33ffc7b255f9ea98e776c7efc2d57b5bb",
+    "/styles-RUUXDO6M.css": "28aa19bb01c7f2d9382b9c34141efa94b73a61c5"
   },
   "navigationUrls": [
     {
