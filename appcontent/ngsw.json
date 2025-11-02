@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1761531229392,
+  "timestamp": 1762070383132,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/styles-RUUXDO6M.css"
+        "/styles-NFUWV2O2.css"
       ],
       "patterns": []
     },
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-AO5HAQVU.js",
-        "/chunk-H2NDQN7U.js",
-        "/chunk-IJVCWFTT.js",
-        "/chunk-UWE6UISO.js",
-        "/chunk-ZN2O3IPW.js",
-        "/main-EIR7GOGF.js",
+        "/chunk-4PLLMJUX.js",
+        "/chunk-UFQUN252.js",
+        "/chunk-UIEOKHL5.js",
+        "/chunk-UTPVXMPH.js",
+        "/chunk-ZBRQJZZH.js",
+        "/main-QNTYDZJM.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-2MPGK7S5.js"
+        "/scripts-ZKFCDYJN.js"
       ],
       "patterns": []
     },
@@ -156,17 +156,17 @@
     "/assets/themes/pink-bluegrey.css": "29503a340abc50fd34a863d6bc5acb9b781a3aae",
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/chunk-AO5HAQVU.js": "92d5040e8cc2a9c6f4a2cde688461da7eee09351",
-    "/chunk-H2NDQN7U.js": "1fe0e838586049faadba86497f52e586e5c792bc",
-    "/chunk-IJVCWFTT.js": "9a1971be33db68ea45c316a8158ce69372a6f206",
-    "/chunk-UWE6UISO.js": "958e75b417bc7783373d6b6b225a0eaa236f65fe",
-    "/chunk-ZN2O3IPW.js": "0fe25f30d7a8abcbe291ad219a3af7dbe904ea6f",
-    "/main-EIR7GOGF.js": "8096f9f9e9e65882666c4f787679eb6595bcc9bc",
+    "/chunk-4PLLMJUX.js": "315812baedc79fdcfff2941d852d8afd60e94ead",
+    "/chunk-UFQUN252.js": "e7b3a4399aa5450743016b34da45fec9de251179",
+    "/chunk-UIEOKHL5.js": "c7e897f41de852b1e773b7b06716220da6151ccb",
+    "/chunk-UTPVXMPH.js": "72a1a9b4252d79f472eeb9759bb218c15ac8ad7a",
+    "/chunk-ZBRQJZZH.js": "b46be30907caec2891b7f37205221ed5f6ac661a",
+    "/main-QNTYDZJM.js": "2719aa0aac64c610486d118f45a6765cd5863fc1",
     "/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
     "/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-2MPGK7S5.js": "22eb27c71aefc90bf0074d32da9be98dcc2c31d0",
-    "/styles-RUUXDO6M.css": "28aa19bb01c7f2d9382b9c34141efa94b73a61c5"
+    "/scripts-ZKFCDYJN.js": "a4dabd1483214fc85e126573c2462ef594620937",
+    "/styles-NFUWV2O2.css": "5754ff1a1228da14ff4c2e2dd46bb49e2733d956"
   },
   "navigationUrls": [
     {

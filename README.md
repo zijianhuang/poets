@@ -6,6 +6,10 @@ published content in branch azure-pages with [poems by the following poets](http
 
 The build is based on buildProdEn.ps1 in repos "PoemsCollection".
 
+And in app root, staticwebapp.config.json is for Azure Static Apps hosting.
+
+Upon every build for update, copy at least what in root and folder "media".
+
 After pushing, GitHub actions will publish to Azure.
 ### Initial Setup
 
