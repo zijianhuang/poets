@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1762204883978,
+  "timestamp": 1762205427613,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -25,12 +25,12 @@
       },
       "urls": [
         "/chunk-422HAUG6.js",
-        "/chunk-KCBN2D5J.js",
         "/chunk-KVR7JZTW.js",
-        "/editor-view.routes-LIEA4W4V.js",
+        "/chunk-QZ3S5PED.js",
+        "/editor-view.routes-534XYC2G.js",
         "/main.js",
         "/polyfills.js",
-        "/reader-view.routes-2KW4TE6B.js",
+        "/reader-view.routes-MPNV5KNK.js",
         "/scripts.js"
       ],
       "patterns": []
@@ -157,15 +157,15 @@
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
     "/chunk-422HAUG6.js": "f7b468a918338e838d4ea32def0b345a63251dff",
-    "/chunk-KCBN2D5J.js": "df956a29a25c7ae03bec654e16e88628cc2ddb77",
     "/chunk-KVR7JZTW.js": "784a0db9fcef2b1bb643ac81809cce0d6b51ac6f",
-    "/editor-view.routes-LIEA4W4V.js": "fdba0853c02dce028dc37f03358e0a515293e428",
-    "/main.js": "aa0a9f6ea7c14db5d37e53551de2e75f5c0603b2",
+    "/chunk-QZ3S5PED.js": "6acc2e0bf853f25ac8774e1682346791ce22d7f1",
+    "/editor-view.routes-534XYC2G.js": "75333676f0d0bf0e7467d5a65d254ce804f3d1f3",
+    "/main.js": "b1d4210b0f367123134814ea5c9becdf1b9a912f",
     "/media/material-symbols-outlined-latin-400-normal.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
     "/media/material-symbols-outlined-latin-400-normal.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/polyfills.js": "93a6271a5c70e6fdf5eee77d88ea381213d05cc8",
-    "/reader-view.routes-2KW4TE6B.js": "02f36e6ba841ad9a7e862508ee7df90fc6fbc83a",
-    "/scripts.js": "7c34efdf1da6999bbc2380f2f68d80ac1c73b502",
+    "/reader-view.routes-MPNV5KNK.js": "7008302c3efec2929ffc5838d1e73cabd8e6742d",
+    "/scripts.js": "699b72000ce79598e64775b957cf7a6ec0cb2c26",
     "/styles.css": "cb0fd696efb9ae99e57d19ad57bd6921886a52b9"
   },
   "navigationUrls": [

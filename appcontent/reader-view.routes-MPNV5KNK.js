@@ -10,7 +10,7 @@ import {
   ModuleIndexComponentBase,
   PoemViewerComponent,
   ViewSettingsDialogService
-} from "./chunk-KCBN2D5J.js";
+} from "./chunk-QZ3S5PED.js";
 import {
   APP_DI_CONFIG,
   APP_STATUSES,
@@ -688,7 +688,7 @@ var ChronicleForReaderComponent = class _ChronicleForReaderComponent extends Chr
     this.staticContentReloadSubscription = this.staticContentReloadSubjectService.getMessage().subscribe((d) => {
       this.currentPoem = {};
       this.filterMode = 0;
-      this.clearKeywords();
+      this.clearKeywordsWithoutTriggering();
       this.closeTree();
       this.hideTagsPanel();
       this.ref.detectChanges();
@@ -1292,4 +1292,4 @@ var READ_VIEW_ROUTES = [
 export {
   READ_VIEW_ROUTES
 };
-//# sourceMappingURL=reader-view.routes-2KW4TE6B.js.map
+//# sourceMappingURL=reader-view.routes-MPNV5KNK.js.map

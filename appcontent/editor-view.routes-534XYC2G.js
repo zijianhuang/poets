@@ -16,7 +16,7 @@ import {
   ModuleIndexComponentBase,
   PoemViewerComponent,
   ViewSettingsComponent
-} from "./chunk-KCBN2D5J.js";
+} from "./chunk-QZ3S5PED.js";
 import {
   APP_DI_CONFIG,
   APP_STATUSES,
@@ -14347,4 +14347,4 @@ var EDITOR_VIEW_ROUTES = [
 export {
   EDITOR_VIEW_ROUTES
 };
-//# sourceMappingURL=editor-view.routes-LIEA4W4V.js.map
+//# sourceMappingURL=editor-view.routes-534XYC2G.js.map

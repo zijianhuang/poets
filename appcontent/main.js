@@ -161,11 +161,11 @@ var AuthGuard = (route, state) => {
 
 // src/app/app.routes.ts
 var routes = [
-  { path: "", loadChildren: () => import("./reader-view.routes-2KW4TE6B.js").then((m) => m.READ_VIEW_ROUTES) },
-  { path: "author/:authorIdx", loadChildren: () => import("./reader-view.routes-2KW4TE6B.js").then((m) => m.READ_VIEW_ROUTES) },
+  { path: "", loadChildren: () => import("./reader-view.routes-MPNV5KNK.js").then((m) => m.READ_VIEW_ROUTES) },
+  { path: "author/:authorIdx", loadChildren: () => import("./reader-view.routes-MPNV5KNK.js").then((m) => m.READ_VIEW_ROUTES) },
   //{ path: 's2t', loadChildren: () => import('./reader-view/reader-view.module').then(m => m.ReaderViewModule) },
   //{ path: 't2s', loadChildren: () => import('./reader-view/reader-view.module').then(m => m.ReaderViewModule) },
-  { path: "authoredit", loadChildren: () => import("./editor-view.routes-LIEA4W4V.js").then((m) => m.EDITOR_VIEW_ROUTES), canActivate: [AuthGuard] },
+  { path: "authoredit", loadChildren: () => import("./editor-view.routes-534XYC2G.js").then((m) => m.EDITOR_VIEW_ROUTES), canActivate: [AuthGuard] },
   { path: "**", component: NotFoundComponent }
   // This must be the last
 ];
