@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1762070383132,
+  "timestamp": 1762150645114,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-4PLLMJUX.js",
-        "/chunk-UFQUN252.js",
-        "/chunk-UIEOKHL5.js",
-        "/chunk-UTPVXMPH.js",
-        "/chunk-ZBRQJZZH.js",
-        "/main-QNTYDZJM.js",
+        "/chunk-2XKKSCBW.js",
+        "/chunk-DO5QLP6T.js",
+        "/chunk-KHRH34XQ.js",
+        "/chunk-XAAZWCLN.js",
+        "/chunk-YYJZI3U2.js",
+        "/main-6GZ4PXCM.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-ZKFCDYJN.js"
+        "/scripts-TJNMICSK.js"
       ],
       "patterns": []
     },
@@ -156,16 +156,16 @@
     "/assets/themes/pink-bluegrey.css": "29503a340abc50fd34a863d6bc5acb9b781a3aae",
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/chunk-4PLLMJUX.js": "315812baedc79fdcfff2941d852d8afd60e94ead",
-    "/chunk-UFQUN252.js": "e7b3a4399aa5450743016b34da45fec9de251179",
-    "/chunk-UIEOKHL5.js": "c7e897f41de852b1e773b7b06716220da6151ccb",
-    "/chunk-UTPVXMPH.js": "72a1a9b4252d79f472eeb9759bb218c15ac8ad7a",
-    "/chunk-ZBRQJZZH.js": "b46be30907caec2891b7f37205221ed5f6ac661a",
-    "/main-QNTYDZJM.js": "2719aa0aac64c610486d118f45a6765cd5863fc1",
+    "/chunk-2XKKSCBW.js": "9814812fc86308fc76037f01b7bfd0e414e3daed",
+    "/chunk-DO5QLP6T.js": "1ad94f46ec078680787d4f7ae8ae3c1c08bf7cc7",
+    "/chunk-KHRH34XQ.js": "5085c682861d97788bd546ad4abb647a35b3c951",
+    "/chunk-XAAZWCLN.js": "b27c77c3d98ef80bbd549502fa498dc178963a4f",
+    "/chunk-YYJZI3U2.js": "7a5f8464ea1094e760cfb895193586c0a94e2cbb",
+    "/main-6GZ4PXCM.js": "447407ac24998c3d1f9c960dfbc58049da280b6b",
     "/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
     "/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-ZKFCDYJN.js": "a4dabd1483214fc85e126573c2462ef594620937",
+    "/scripts-TJNMICSK.js": "729c77259a24c8ab4ba5be78d4140228fc11482d",
     "/styles-NFUWV2O2.css": "5754ff1a1228da14ff4c2e2dd46bb49e2733d956"
   },
   "navigationUrls": [
