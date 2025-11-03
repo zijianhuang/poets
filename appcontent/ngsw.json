@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1762152142877,
+  "timestamp": 1762163353188,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-5J5JTXIQ.js",
+        "/chunk-5TDFZA23.js",
         "/chunk-7YFUR5GG.js",
         "/chunk-DO5QLP6T.js",
+        "/chunk-JZKDGROC.js",
         "/chunk-KHRH34XQ.js",
-        "/chunk-YHBZYSVM.js",
-        "/main-NI54LFWI.js",
+        "/main-UL3GXD7P.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-W3F6OCUY.js"
+        "/scripts-A6Z6I4GU.js"
       ],
       "patterns": []
     },
@@ -156,16 +156,16 @@
     "/assets/themes/pink-bluegrey.css": "29503a340abc50fd34a863d6bc5acb9b781a3aae",
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/chunk-5J5JTXIQ.js": "4a1a395bb4593bc8fc14b282f2ba7ee0e34d40ce",
+    "/chunk-5TDFZA23.js": "ab42ff6efca0650913009f19e7f90a1ade5d7c74",
     "/chunk-7YFUR5GG.js": "d7d4f2199fac8df17988f274963a58cd5640725c",
     "/chunk-DO5QLP6T.js": "1ad94f46ec078680787d4f7ae8ae3c1c08bf7cc7",
+    "/chunk-JZKDGROC.js": "cb46a1a8c6780811445d2bae32934397632d2e7f",
     "/chunk-KHRH34XQ.js": "5085c682861d97788bd546ad4abb647a35b3c951",
-    "/chunk-YHBZYSVM.js": "18f53ddc313eebf95424b950d1ef3fb0408be89e",
-    "/main-NI54LFWI.js": "f84423e0cd7b5b90f023f378b2f7847514e04b16",
+    "/main-UL3GXD7P.js": "860145e18e9ffa6b04f14cb420c4d9521dd30904",
     "/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
     "/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-W3F6OCUY.js": "5d6beab81a6f82d75403d24d79c958fd5ae39ba5",
+    "/scripts-A6Z6I4GU.js": "4821f007beffcba912d4cd81bac48dbcb2bc9daf",
     "/styles-NFUWV2O2.css": "5754ff1a1228da14ff4c2e2dd46bb49e2733d956"
   },
   "navigationUrls": [
