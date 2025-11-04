@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1762205695043,
+  "timestamp": 1762286035586,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/chunk-2SHEII3U.js",
-        "/chunk-6QTQMKTS.js",
+        "/chunk-6XDYK2HZ.js",
+        "/chunk-A43NG7FF.js",
         "/chunk-DO5QLP6T.js",
         "/chunk-KHRH34XQ.js",
-        "/chunk-UKKSTQDQ.js",
-        "/main-22CEVEMC.js",
+        "/chunk-OVYZLFIU.js",
+        "/main-5UGA6AJH.js",
         "/polyfills-XD5MMPJF.js",
-        "/scripts-XRIQUF6Q.js"
+        "/scripts-VNP2IK6P.js"
       ],
       "patterns": []
     },
@@ -156,16 +156,16 @@
     "/assets/themes/pink-bluegrey.css": "29503a340abc50fd34a863d6bc5acb9b781a3aae",
     "/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/chunk-2SHEII3U.js": "410fcfb77eb814c60bb431a6db9928869f6f9cb5",
-    "/chunk-6QTQMKTS.js": "23b2af2ce0b25bf83b53a22c86290f64852c29a9",
+    "/chunk-6XDYK2HZ.js": "aa5e09da063fe3268b04cfb5da177ed4a5c01fb6",
+    "/chunk-A43NG7FF.js": "3a21d25d557b584e330f4cb8a871c703c27acd4e",
     "/chunk-DO5QLP6T.js": "1ad94f46ec078680787d4f7ae8ae3c1c08bf7cc7",
     "/chunk-KHRH34XQ.js": "5085c682861d97788bd546ad4abb647a35b3c951",
-    "/chunk-UKKSTQDQ.js": "a884204568772dfbeb91dfdfe1e2488e2e00c078",
-    "/main-22CEVEMC.js": "170b3f641cdd37afdd248f31dbccf271d924d443",
+    "/chunk-OVYZLFIU.js": "7f5def433acd0278b361609884f8774d3b151fa6",
+    "/main-5UGA6AJH.js": "c3abbe2915bf37c9edfea505d0f3b8f1013a686d",
     "/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
     "/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/scripts-XRIQUF6Q.js": "4a51b6f3293459b24fc3b4bb0ab91b60a19b2d8b",
+    "/scripts-VNP2IK6P.js": "dd80a22b4f6a747fa62f20b1bd94fdf3db47bde5",
     "/styles-NFUWV2O2.css": "5754ff1a1228da14ff4c2e2dd46bb49e2733d956"
   },
   "navigationUrls": [
