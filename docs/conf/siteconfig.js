@@ -2,7 +2,7 @@ const SITE_CONFIG = {
 	siteName: 'Poetry Collection',
 	apiBaseUri: '',
 	themeName: 'azure-blue',
-	staticReadonly: True,
+	staticReadonly: true,
 	copyPoemEnabled: true,
 	copyAlbumEnabled: false,
 	chronologyEnabled: true,
