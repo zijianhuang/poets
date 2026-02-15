@@ -49,7 +49,13 @@ And Chinese fonts have a lot problems in Web usages, as described at https://blo
 
 Referenced in `angular.json` to "./node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css", and `ng build` will combined it into `styles.less` then `styles.css` and inject to `index.html`.
 
-## Material Icons
+## Material Symbols
+
+Import through `@import "@fontsource/material-symbols-outlined/400.css";` in styles.css, for 400 only. `ng build` will put the files to folder "media".
+
+Fine tune after deployment could be done through adjust `fonts.css` with `.material-symbols-outlined`.
+
+## Material Icons (Not used since 2025-10-25)
 
 Google Material Icons team had stopped releasing since 2018, though they are still updating icons occasionally. Many of the Internet posts prior to year 2019 about how to host icons locally are basically out-of-date.
 

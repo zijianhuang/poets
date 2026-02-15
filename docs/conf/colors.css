@@ -1,0 +1,63 @@
+sup.num {
+	background-color: aqua;
+	vertical-align: super;
+}
+
+img.local {
+	border: 1px solid green;
+	max-width: 100%;
+	height: auto;
+}
+
+.semi-transparent {
+	background-color: hsla(0, 100%, 100%, 0.93) !important;
+}
+
+
+.annotation0 {
+	background-color: yellow;
+}
+
+.annotation1 {
+	background-color: lightblue;
+}
+
+.annotation2 {
+	background-color: lightcoral;
+}
+
+.annotation3 {
+	background-color: lightgoldenrodyellow;
+}
+
+.annotation4 {
+	background-color: lightgray;
+}
+
+.annotation5 {
+	background-color: lightgreen;
+}
+
+.annotation5 {
+	background-color: lightpink;
+}
+
+.annotation6 {
+	background-color: lightskyblue;
+}
+
+.annotation7 {
+	background-color: lightsalmon;
+}
+
+.annotation8 {
+	background-color: lightyellow;
+}
+
+.annotation9 {
+	background-color: plum;
+}
+
+.in-sidenav-sticky-color {
+	background-color: #e0e0e0; /* light neutral surface */
+}

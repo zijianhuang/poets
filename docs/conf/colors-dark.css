@@ -1,0 +1,67 @@
+sup.num {
+	background-color: #1e6f7a; /* deep aqua */
+	vertical-align: super;
+}
+
+img.local {
+	border: 1px solid #4caf50; /* Material green 500 */
+	max-width: 100%;
+	height: auto;
+}
+
+.semi-transparent {
+	background-color: hsla(0, 0%, 15%, 0.93) !important; /* dark translucent */
+}
+
+/* Annotations */
+.annotation0 {
+	background-color: #665c00; /* muted yellow */
+}
+
+.annotation1 {
+	background-color: #2b4d66; /* dark lightblue */
+}
+
+.annotation2 {
+	background-color: #6b2e2e; /* dark coral */
+}
+
+.annotation3 {
+	background-color: #5c4f1a; /* dark goldenrod */
+}
+
+.annotation4 {
+	background-color: #555555; /* dark gray */
+}
+
+.annotation5 {
+	background-color: #2e5c2e; /* dark green */
+}
+
+.annotation5 {
+	background-color: #6b3a4a; /* dark pink */
+}
+
+.annotation6 {
+	background-color: #1e4d6b; /* dark skyblue */
+}
+
+.annotation7 {
+	background-color: #6b3a2e; /* dark salmon */
+}
+
+.annotation8 {
+	background-color: #665c1a; /* dark yellow */
+}
+
+.annotation9 {
+	background-color: #5a3a5a; /* dark plum */
+}
+
+.in-sidenav-sticky-color {
+	background-color: #3a3a3a; /* dark neutral surface */
+}
+
+body {
+	background-color: black;
+}
